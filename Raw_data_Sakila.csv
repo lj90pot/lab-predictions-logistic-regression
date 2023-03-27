@@ -1,0 +1,1001 @@
+film_id,title,rental_duration,rental_rate,length,replacement_cost,rating,special_features,Category,num_tot_rentals,num_stores_avability,num_copies,rented_last_month
+19,AMADEUS HOLY,6,0.99,113,20.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Action,21.0,2.0,6.0,1.0
+21,AMERICAN CIRCUS,3,4.99,129,17.99,R,"Commentaries,Behind the Scenes",Action,22.0,2.0,6.0,1.0
+29,ANTITRUST TOMATOES,5,2.99,168,11.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Action,10.0,1.0,2.0,0.0
+38,ARK RIDGEMONT,6,0.99,68,25.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Action,,,,
+56,BAREFOOT MANCHURIAN,6,2.99,129,15.99,G,"Trailers,Commentaries",Action,18.0,2.0,5.0,0.0
+67,BERETS AGENT,5,2.99,77,24.99,PG-13,Deleted Scenes,Action,21.0,2.0,6.0,1.0
+97,BRIDE INTRIGUE,7,0.99,56,24.99,G,"Trailers,Commentaries,Behind the Scenes",Action,19.0,2.0,6.0,0.0
+105,BULL SHAWSHANK,6,0.99,125,21.99,NC-17,Deleted Scenes,Action,16.0,2.0,5.0,1.0
+111,CADDYSHACK JEDI,3,0.99,52,17.99,NC-17,"Commentaries,Deleted Scenes",Action,16.0,1.0,4.0,0.0
+115,CAMPUS REMEMBER,5,2.99,167,27.99,R,Behind the Scenes,Action,19.0,2.0,7.0,0.0
+126,CASUALTIES ENCINO,3,4.99,179,16.99,G,Trailers,Action,9.0,1.0,3.0,0.0
+130,CELEBRITY HORN,7,0.99,110,24.99,PG-13,"Deleted Scenes,Behind the Scenes",Action,24.0,2.0,6.0,0.0
+162,CLUELESS BUCKET,4,2.99,95,13.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Action,25.0,2.0,7.0,0.0
+194,CROW GREASE,6,0.99,104,22.99,PG,"Trailers,Commentaries,Behind the Scenes",Action,12.0,2.0,4.0,0.0
+205,DANCES NONE,3,0.99,58,22.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Action,14.0,1.0,4.0,1.0
+210,DARKO DORADO,3,4.99,130,13.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Action,11.0,1.0,3.0,0.0
+212,DARN FORRESTER,7,4.99,185,14.99,G,Deleted Scenes,Action,18.0,2.0,5.0,0.0
+229,DEVIL DESIRE,6,4.99,87,12.99,R,"Trailers,Behind the Scenes",Action,15.0,2.0,4.0,1.0
+250,DRAGON SQUAD,4,0.99,170,26.99,NC-17,"Deleted Scenes,Behind the Scenes",Action,11.0,1.0,4.0,0.0
+252,DREAM PICKUP,6,2.99,135,18.99,PG,"Trailers,Commentaries,Behind the Scenes",Action,22.0,2.0,6.0,0.0
+253,DRIFTER COMMANDMENTS,5,4.99,61,18.99,PG-13,"Trailers,Behind the Scenes",Action,24.0,2.0,6.0,1.0
+271,EASY GLADIATOR,5,4.99,148,12.99,G,"Trailers,Commentaries,Behind the Scenes",Action,23.0,2.0,5.0,0.0
+287,ENTRAPMENT SATISFACTION,5,0.99,176,19.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Action,15.0,2.0,4.0,0.0
+292,EXCITEMENT EVE,3,0.99,51,20.99,G,Commentaries,Action,21.0,2.0,6.0,0.0
+303,FANTASY TROOPERS,6,0.99,58,27.99,PG-13,Behind the Scenes,Action,26.0,2.0,6.0,0.0
+318,FIREHOUSE VIETNAM,7,0.99,103,14.99,G,"Commentaries,Deleted Scenes",Action,,,,
+327,FOOL MOCKINGBIRD,3,4.99,158,24.99,PG,"Trailers,Commentaries",Action,23.0,2.0,6.0,0.0
+329,FORREST SONS,4,2.99,63,15.99,R,Commentaries,Action,18.0,2.0,6.0,0.0
+360,GLASS DYING,4,0.99,103,24.99,G,Trailers,Action,14.0,1.0,4.0,0.0
+371,GOSFORD DONNIE,5,4.99,129,17.99,G,Commentaries,Action,8.0,1.0,3.0,0.0
+375,GRAIL FRANKENSTEIN,4,2.99,85,17.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Action,10.0,1.0,2.0,1.0
+395,HANDICAP BOONDOCK,4,0.99,108,28.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Action,28.0,2.0,6.0,0.0
+417,HILLS NEIGHBORS,5,0.99,93,29.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Action,25.0,2.0,6.0,0.0
+501,KISSING DOLLS,3,4.99,141,9.99,R,Trailers,Action,20.0,2.0,5.0,0.0
+511,LAWRENCE LOVE,7,0.99,175,23.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Action,13.0,2.0,5.0,0.0
+530,LORD ARIZONA,5,2.99,108,27.99,PG-13,Trailers,Action,11.0,1.0,3.0,1.0
+542,LUST LOCK,3,2.99,52,28.99,G,"Trailers,Commentaries,Behind the Scenes",Action,15.0,2.0,6.0,1.0
+549,MAGNOLIA FORRESTER,4,0.99,171,28.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Action,11.0,2.0,4.0,0.0
+574,MIDNIGHT WESTWARD,3,0.99,86,19.99,G,"Trailers,Deleted Scenes",Action,17.0,2.0,5.0,1.0
+579,MINDS TRUMAN,3,4.99,149,22.99,PG-13,"Deleted Scenes,Behind the Scenes",Action,20.0,2.0,7.0,0.0
+586,MOCKINGBIRD HOLLYWOOD,4,0.99,60,27.99,PG,Behind the Scenes,Action,24.0,2.0,8.0,1.0
+594,MONTEZUMA COMMAND,6,0.99,126,22.99,NC-17,Trailers,Action,9.0,1.0,3.0,0.0
+659,PARK CITIZEN,3,4.99,109,14.99,PG-13,"Trailers,Deleted Scenes",Action,8.0,1.0,2.0,0.0
+664,PATRIOT ROMAN,6,2.99,65,12.99,PG,"Trailers,Deleted Scenes",Action,16.0,2.0,5.0,0.0
+697,PRIMARY GLASS,7,0.99,53,16.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Action,27.0,2.0,8.0,0.0
+707,QUEST MUSSOLINI,5,2.99,177,29.99,R,Behind the Scenes,Action,20.0,2.0,6.0,0.0
+717,REAR TRADING,6,0.99,97,23.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Action,17.0,2.0,4.0,0.0
+732,RINGS HEARTBREAKERS,5,0.99,58,17.99,G,"Trailers,Commentaries,Behind the Scenes",Action,15.0,1.0,4.0,0.0
+748,RUGRATS SHAKESPEARE,4,0.99,109,16.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Action,30.0,2.0,8.0,0.0
+793,SHRUNK DIVINE,6,2.99,139,14.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Action,14.0,1.0,4.0,0.0
+794,SIDE ARK,5,0.99,52,28.99,G,"Deleted Scenes,Behind the Scenes",Action,12.0,2.0,4.0,0.0
+802,SKY MIRACLE,7,2.99,132,15.99,PG,"Trailers,Commentaries,Deleted Scenes",Action,,,,
+823,SOUTH WAIT,4,2.99,143,21.99,R,"Commentaries,Behind the Scenes",Action,22.0,2.0,7.0,1.0
+825,SPEAKEASY DATE,6,2.99,165,22.99,PG-13,"Deleted Scenes,Behind the Scenes",Action,12.0,1.0,3.0,0.0
+838,STAGECOACH ARMAGEDDON,5,4.99,112,25.99,R,"Trailers,Deleted Scenes",Action,26.0,2.0,6.0,0.0
+850,STORY SIDE,7,0.99,163,27.99,R,"Trailers,Behind the Scenes",Action,28.0,2.0,7.0,0.0
+869,SUSPECTS QUILLS,4,2.99,47,22.99,PG,Trailers,Action,30.0,2.0,7.0,1.0
+911,TRIP NEWTON,7,4.99,64,14.99,PG-13,"Commentaries,Deleted Scenes",Action,28.0,2.0,8.0,0.0
+915,TRUMAN CRAZY,7,4.99,92,9.99,G,"Trailers,Commentaries",Action,23.0,2.0,6.0,0.0
+927,UPRISING UPTOWN,6,2.99,174,16.99,NC-17,"Trailers,Behind the Scenes",Action,16.0,1.0,4.0,0.0
+964,WATERFRONT DELIVERANCE,4,4.99,61,17.99,G,Behind the Scenes,Action,17.0,2.0,5.0,0.0
+968,WEREWOLF LOLA,6,4.99,79,19.99,G,"Trailers,Behind the Scenes",Action,14.0,1.0,3.0,0.0
+982,WOMEN DORADO,4,0.99,126,23.99,R,"Deleted Scenes,Behind the Scenes",Action,23.0,2.0,7.0,1.0
+991,WORST BANGER,4,2.99,185,26.99,PG,"Deleted Scenes,Behind the Scenes",Action,16.0,2.0,5.0,0.0
+18,ALTER VICTORY,6,0.99,57,27.99,PG-13,"Trailers,Behind the Scenes",Animation,22.0,2.0,6.0,0.0
+23,ANACONDA CONFESSIONS,3,0.99,92,9.99,R,"Trailers,Deleted Scenes",Animation,21.0,2.0,5.0,0.0
+36,ARGONAUTS TOWN,7,0.99,127,12.99,PG-13,"Trailers,Commentaries",Animation,,,,
+70,BIKINI BORROWERS,7,4.99,142,26.99,NC-17,"Commentaries,Deleted Scenes",Animation,17.0,2.0,4.0,0.0
+78,BLACKOUT PRIVATE,7,2.99,85,12.99,PG,"Trailers,Deleted Scenes",Animation,27.0,2.0,7.0,0.0
+89,BORROWERS BEDAZZLED,7,0.99,63,22.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Animation,22.0,2.0,6.0,0.0
+118,CANYON STOCK,7,0.99,85,26.99,R,"Trailers,Deleted Scenes",Animation,19.0,2.0,6.0,1.0
+121,CAROL TEXAS,4,2.99,151,15.99,PG,"Trailers,Behind the Scenes",Animation,18.0,2.0,6.0,0.0
+134,CHAMPION FLATLINERS,4,4.99,51,21.99,PG,Trailers,Animation,13.0,1.0,3.0,0.0
+154,CLASH FREDDY,6,2.99,81,12.99,G,"Commentaries,Deleted Scenes",Animation,25.0,2.0,7.0,0.0
+160,CLUB GRAFFITI,4,0.99,65,12.99,PG-13,"Trailers,Deleted Scenes",Animation,19.0,2.0,5.0,1.0
+193,CROSSROADS CASUALTIES,5,2.99,153,20.99,G,"Trailers,Commentaries,Behind the Scenes",Animation,21.0,2.0,8.0,0.0
+208,DARES PLUTO,7,2.99,89,16.99,PG-13,"Commentaries,Behind the Scenes",Animation,9.0,1.0,3.0,0.0
+223,DESIRE ALIEN,7,2.99,76,24.99,NC-17,Deleted Scenes,Animation,8.0,1.0,2.0,0.0
+239,DOGMA FAMILY,5,4.99,122,16.99,G,Commentaries,Animation,30.0,2.0,8.0,0.0
+241,DONNIE ALLEY,4,0.99,125,20.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Animation,14.0,1.0,4.0,0.0
+243,DOORS PRESIDENT,3,4.99,49,22.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Animation,19.0,2.0,6.0,1.0
+245,DOUBLE WRATH,4,0.99,177,28.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Animation,25.0,2.0,7.0,0.0
+259,DUCK RACER,4,2.99,116,15.99,NC-17,Behind the Scenes,Animation,6.0,1.0,2.0,0.0
+268,EARLY HOME,6,4.99,96,27.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Animation,7.0,1.0,2.0,0.0
+300,FALCON VOLUME,5,4.99,102,21.99,PG-13,"Commentaries,Behind the Scenes",Animation,22.0,2.0,6.0,1.0
+314,FIGHT JAWBREAKER,3,0.99,91,13.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Animation,22.0,2.0,6.0,1.0
+325,FLOATS GARDEN,6,2.99,145,29.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Animation,,,,
+326,FLYING HOOK,6,2.99,69,18.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Animation,20.0,2.0,6.0,1.0
+330,FORRESTER COMANCHEROS,7,4.99,112,22.99,NC-17,"Trailers,Behind the Scenes",Animation,27.0,2.0,7.0,1.0
+349,GANGS PRIDE,4,2.99,185,27.99,PG-13,Behind the Scenes,Animation,27.0,2.0,7.0,0.0
+355,GHOSTBUSTERS ELF,7,0.99,101,18.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Animation,9.0,1.0,2.0,0.0
+402,HARPER DYING,3,0.99,52,15.99,G,Trailers,Animation,20.0,2.0,6.0,0.0
+430,HOOK CHARIOTS,7,0.99,49,23.99,G,"Trailers,Commentaries,Behind the Scenes",Animation,13.0,1.0,4.0,0.0
+433,HORN WORKING,4,2.99,95,23.99,PG,Trailers,Animation,24.0,2.0,6.0,0.0
+456,INCH JET,6,4.99,167,18.99,NC-17,Deleted Scenes,Animation,18.0,2.0,6.0,0.0
+461,INSECTS STONE,3,0.99,123,14.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Animation,18.0,2.0,6.0,1.0
+464,INTENTIONS EMPIRE,3,2.99,107,13.99,PG-13,"Trailers,Behind the Scenes",Animation,17.0,2.0,7.0,1.0
+470,ISHTAR ROCKETEER,4,4.99,79,24.99,R,"Trailers,Commentaries,Deleted Scenes",Animation,7.0,1.0,2.0,0.0
+489,JUGGLER HARDLY,4,0.99,54,14.99,PG-13,"Trailers,Commentaries",Animation,32.0,2.0,8.0,1.0
+510,LAWLESS VISION,6,4.99,181,29.99,G,"Deleted Scenes,Behind the Scenes",Animation,17.0,1.0,4.0,1.0
+541,LUKE MUMMY,5,2.99,74,21.99,NC-17,"Trailers,Behind the Scenes",Animation,7.0,1.0,2.0,0.0
+564,MASSAGE IMAGE,4,2.99,161,11.99,PG,"Commentaries,Behind the Scenes",Animation,12.0,1.0,3.0,0.0
+569,MENAGERIE RUSHMORE,7,2.99,147,18.99,G,"Trailers,Commentaries,Deleted Scenes",Animation,7.0,1.0,2.0,0.0
+582,MIRACLE VIRTUAL,3,2.99,162,19.99,PG-13,"Trailers,Deleted Scenes",Animation,9.0,1.0,2.0,0.0
+583,MISSION ZOOLANDER,3,4.99,164,26.99,PG-13,Behind the Scenes,Animation,18.0,2.0,5.0,0.0
+615,NASH CHOCOLAT,6,2.99,180,21.99,PG-13,"Commentaries,Behind the Scenes",Animation,15.0,1.0,4.0,0.0
+644,OSCAR GOLD,7,2.99,115,29.99,PG,Behind the Scenes,Animation,25.0,2.0,7.0,0.0
+649,OZ LIAISONS,4,2.99,85,14.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Animation,24.0,2.0,6.0,0.0
+651,PACKER MADIGAN,3,0.99,84,20.99,PG-13,Trailers,Animation,22.0,2.0,6.0,0.0
+690,POND SEATTLE,7,2.99,185,25.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Animation,19.0,2.0,6.0,0.0
+692,POTLUCK MIXED,3,2.99,179,10.99,G,Behind the Scenes,Animation,11.0,1.0,3.0,0.0
+693,POTTER CONNECTICUT,5,2.99,115,16.99,PG,"Trailers,Commentaries",Animation,17.0,2.0,5.0,0.0
+696,PRIDE ALAMO,6,0.99,114,20.99,NC-17,Deleted Scenes,Animation,16.0,2.0,5.0,1.0
+703,PUNK DIVORCE,6,4.99,100,18.99,PG,"Trailers,Commentaries,Deleted Scenes",Animation,8.0,1.0,2.0,0.0
+743,ROOM ROMAN,7,0.99,60,27.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Animation,20.0,2.0,6.0,0.0
+805,SLEEPLESS MONSOON,5,4.99,64,12.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Animation,20.0,2.0,5.0,1.0
+816,SNOWMAN ROLLERCOASTER,3,0.99,62,27.99,G,Trailers,Animation,23.0,2.0,7.0,0.0
+820,SONS INTERVIEW,3,2.99,184,11.99,NC-17,"Commentaries,Behind the Scenes",Animation,15.0,2.0,6.0,1.0
+849,STORM HAPPINESS,6,0.99,57,28.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Animation,29.0,2.0,8.0,0.0
+859,SUGAR WONKA,3,4.99,114,20.99,PG,"Trailers,Commentaries,Behind the Scenes",Animation,17.0,2.0,6.0,0.0
+865,SUNRISE LEAGUE,3,4.99,135,19.99,PG-13,Behind the Scenes,Animation,24.0,2.0,6.0,0.0
+880,TELEMARK HEARTBREAKERS,6,2.99,152,9.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Animation,25.0,2.0,8.0,0.0
+886,THEORY MERMAID,5,0.99,184,9.99,PG-13,"Deleted Scenes,Behind the Scenes",Animation,11.0,1.0,4.0,1.0
+887,THIEF PELICAN,5,4.99,135,28.99,PG-13,"Deleted Scenes,Behind the Scenes",Animation,19.0,2.0,6.0,0.0
+892,TITANIC BOONDOCK,3,4.99,104,18.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Animation,23.0,2.0,7.0,1.0
+901,TRACY CIDER,3,0.99,142,29.99,G,"Trailers,Commentaries,Behind the Scenes",Animation,26.0,2.0,7.0,0.0
+916,TURN STAR,3,2.99,80,10.99,G,"Commentaries,Behind the Scenes",Animation,14.0,2.0,4.0,0.0
+953,WAIT CIDER,3,0.99,112,9.99,PG-13,Trailers,Animation,21.0,2.0,6.0,0.0
+963,WATCH TRACY,5,0.99,78,12.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Animation,16.0,2.0,5.0,0.0
+986,WONKA SEA,6,2.99,85,24.99,NC-17,"Trailers,Commentaries",Animation,18.0,2.0,6.0,0.0
+48,BACKLASH UNDEFEATED,3,4.99,118,24.99,PG-13,"Trailers,Behind the Scenes",Children,19.0,2.0,4.0,0.0
+59,BEAR GRACELAND,4,2.99,160,20.99,R,Deleted Scenes,Children,22.0,2.0,5.0,0.0
+66,BENEATH RUSH,6,0.99,53,27.99,NC-17,"Commentaries,Deleted Scenes",Children,10.0,1.0,3.0,0.0
+68,BETRAYED REAR,5,4.99,122,26.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Children,15.0,2.0,4.0,0.0
+110,CABIN FLASH,4,0.99,53,25.99,NC-17,"Commentaries,Deleted Scenes",Children,15.0,1.0,4.0,0.0
+124,CASPER DRAGONFLY,3,4.99,163,16.99,PG-13,Trailers,Children,8.0,1.0,3.0,0.0
+149,CHRISTMAS MOONSHINE,7,0.99,150,21.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Children,21.0,2.0,6.0,0.0
+152,CIRCUS YOUTH,5,2.99,90,13.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Children,15.0,1.0,4.0,0.0
+157,CLOCKWORK PARADISE,7,0.99,143,29.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Children,10.0,1.0,3.0,0.0
+168,COMANCHEROS ENEMY,5,0.99,67,23.99,R,"Trailers,Behind the Scenes",Children,6.0,1.0,2.0,0.0
+191,CROOKED FROGMEN,6,0.99,143,27.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Children,23.0,2.0,6.0,1.0
+214,DAUGHTER MADIGAN,3,4.99,59,13.99,PG-13,Trailers,Children,9.0,1.0,4.0,0.0
+238,DOCTOR GRAIL,4,2.99,57,29.99,G,"Trailers,Commentaries,Behind the Scenes",Children,7.0,1.0,2.0,0.0
+280,EMPIRE MALKOVICH,7,0.99,177,26.99,G,Deleted Scenes,Children,21.0,2.0,6.0,0.0
+304,FARGO GANDHI,3,2.99,130,28.99,G,Deleted Scenes,Children,24.0,2.0,6.0,0.0
+328,FOREVER CANDIDATE,7,2.99,131,28.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Children,13.0,1.0,4.0,0.0
+343,FULL FLATLINERS,6,2.99,94,14.99,PG,"Trailers,Deleted Scenes",Children,5.0,1.0,2.0,0.0
+344,FURY MURDER,3,0.99,178,28.99,PG-13,Deleted Scenes,Children,19.0,2.0,5.0,0.0
+354,GHOST GROUNDHOG,6,4.99,85,18.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Children,21.0,2.0,5.0,1.0
+356,GIANT TROOPERS,5,2.99,102,10.99,R,"Trailers,Commentaries",Children,28.0,2.0,8.0,0.0
+370,GORGEOUS BINGO,4,2.99,108,26.99,R,"Deleted Scenes,Behind the Scenes",Children,19.0,2.0,5.0,1.0
+373,GRADUATE LORD,7,2.99,156,14.99,G,"Trailers,Behind the Scenes",Children,16.0,2.0,5.0,0.0
+392,HALL CASSIDY,5,4.99,51,13.99,NC-17,"Commentaries,Behind the Scenes",Children,16.0,2.0,6.0,0.0
+409,HEARTBREAKERS BRIGHT,3,4.99,59,9.99,G,"Trailers,Deleted Scenes",Children,20.0,2.0,7.0,0.0
+423,HOLLYWOOD ANONYMOUS,7,0.99,69,29.99,PG,"Trailers,Behind the Scenes",Children,13.0,2.0,4.0,0.0
+424,HOLOCAUST HIGHBALL,6,0.99,149,12.99,R,Deleted Scenes,Children,17.0,2.0,5.0,0.0
+450,IDOLS SNATCHERS,5,2.99,84,29.99,NC-17,Trailers,Children,30.0,2.0,7.0,0.0
+468,INVASION CYCLONE,5,2.99,97,12.99,PG,"Trailers,Deleted Scenes",Children,27.0,2.0,8.0,0.0
+485,JERSEY SASSY,6,4.99,60,16.99,PG,"Deleted Scenes,Behind the Scenes",Children,6.0,1.0,3.0,0.0
+491,JUMPING WRATH,4,0.99,74,18.99,NC-17,"Commentaries,Behind the Scenes",Children,24.0,2.0,6.0,0.0
+505,LABYRINTH LEAGUE,6,2.99,46,24.99,PG-13,"Commentaries,Behind the Scenes",Children,15.0,1.0,4.0,0.0
+509,LANGUAGE COWBOY,5,0.99,78,26.99,NC-17,"Trailers,Deleted Scenes",Children,11.0,1.0,3.0,0.0
+515,LEGALLY SECRETARY,7,4.99,113,14.99,PG,"Trailers,Commentaries,Behind the Scenes",Children,9.0,1.0,2.0,0.0
+547,MAGIC MALLRATS,3,0.99,117,19.99,PG,"Trailers,Commentaries",Children,7.0,1.0,2.0,0.0
+553,MAKER GABLES,4,0.99,136,12.99,PG-13,"Deleted Scenes,Behind the Scenes",Children,10.0,1.0,3.0,0.0
+573,MICROCOSMOS PARADISE,6,2.99,105,22.99,PG-13,Commentaries,Children,13.0,1.0,4.0,0.0
+588,MODEL FISH,4,4.99,175,11.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Children,15.0,1.0,4.0,0.0
+608,MURDER ANTITRUST,6,2.99,166,11.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Children,23.0,2.0,6.0,0.0
+626,NOON PAPI,5,2.99,57,12.99,G,Behind the Scenes,Children,17.0,1.0,4.0,0.0
+688,POLISH BROOKLYN,6,0.99,61,12.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Children,18.0,1.0,4.0,0.0
+735,ROBBERS JOON,7,2.99,102,26.99,PG-13,Commentaries,Children,31.0,2.0,7.0,0.0
+755,SABRINA MIDNIGHT,5,4.99,99,11.99,PG,"Trailers,Behind the Scenes",Children,21.0,2.0,7.0,0.0
+761,SANTA PARIS,7,2.99,154,23.99,PG,"Commentaries,Behind the Scenes",Children,11.0,1.0,3.0,0.0
+768,SCARFACE BANG,3,4.99,102,11.99,PG-13,"Commentaries,Deleted Scenes",Children,18.0,2.0,6.0,1.0
+786,SHEPHERD MIDSUMMER,7,0.99,113,14.99,R,Deleted Scenes,Children,25.0,2.0,7.0,0.0
+801,SISTER FREDDY,5,4.99,152,19.99,PG-13,"Trailers,Behind the Scenes",Children,,,,
+833,SPLENDOR PATTON,5,0.99,134,20.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Children,21.0,2.0,7.0,0.0
+852,STRANGELOVE DESIRE,4,0.99,103,27.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Children,24.0,2.0,7.0,0.0
+853,STRANGER STRANGERS,3,4.99,139,12.99,G,"Commentaries,Deleted Scenes",Children,11.0,1.0,3.0,0.0
+864,SUNDANCE INVASION,5,0.99,92,21.99,NC-17,"Commentaries,Behind the Scenes",Children,19.0,2.0,6.0,1.0
+873,SWEETHEARTS SUSPECTS,3,0.99,108,13.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Children,29.0,2.0,8.0,1.0
+883,TEQUILA PAST,6,4.99,53,17.99,PG,"Commentaries,Behind the Scenes",Children,6.0,1.0,2.0,0.0
+889,TIES HUNGER,3,4.99,111,28.99,R,Deleted Scenes,Children,11.0,1.0,3.0,0.0
+896,TOOTSIE PILOT,3,0.99,157,10.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Children,15.0,2.0,4.0,0.0
+918,TWISTED PIRATES,4,4.99,152,23.99,PG,"Trailers,Commentaries,Deleted Scenes",Children,11.0,1.0,4.0,0.0
+928,UPTOWN YOUNG,5,2.99,84,16.99,PG,Commentaries,Children,12.0,1.0,3.0,0.0
+955,WALLS ARTIST,7,4.99,135,19.99,PG,"Trailers,Behind the Scenes",Children,,,,
+959,WARLOCK WEREWOLF,6,2.99,83,10.99,G,"Commentaries,Behind the Scenes",Children,6.0,1.0,2.0,0.0
+993,WRONG BEHAVIOR,6,2.99,178,10.99,PG-13,"Trailers,Behind the Scenes",Children,20.0,2.0,7.0,0.0
+999,ZOOLANDER FICTION,5,2.99,101,28.99,R,"Trailers,Deleted Scenes",Children,17.0,2.0,5.0,0.0
+14,ALICE FANTASIA,6,0.99,94,23.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",Classics,,,,
+37,ARIZONA BANG,3,2.99,121,28.99,PG,"Trailers,Deleted Scenes",Classics,21.0,2.0,7.0,0.0
+60,BEAST HUNCHBACK,3,4.99,89,22.99,R,"Deleted Scenes,Behind the Scenes",Classics,11.0,1.0,3.0,0.0
+91,BOUND CHEAPER,5,0.99,98,17.99,PG,Behind the Scenes,Classics,24.0,2.0,8.0,1.0
+116,CANDIDATE PERDITION,4,2.99,70,10.99,R,"Deleted Scenes,Behind the Scenes",Classics,18.0,2.0,6.0,1.0
+131,CENTER DINOSAUR,5,4.99,152,12.99,PG,Deleted Scenes,Classics,24.0,2.0,6.0,1.0
+166,COLOR PHILADELPHIA,6,2.99,149,19.99,G,"Commentaries,Behind the Scenes",Classics,24.0,2.0,6.0,0.0
+180,CONSPIRACY SPIRIT,4,2.99,184,27.99,PG-13,"Trailers,Commentaries",Classics,5.0,1.0,2.0,0.0
+184,CORE SUIT,3,2.99,92,24.99,PG-13,Deleted Scenes,Classics,18.0,2.0,5.0,0.0
+190,CREEPERS KANE,5,4.99,172,23.99,NC-17,"Trailers,Behind the Scenes",Classics,14.0,1.0,4.0,0.0
+196,CRUELTY UNFORGIVEN,7,0.99,69,29.99,G,"Deleted Scenes,Behind the Scenes",Classics,7.0,1.0,2.0,0.0
+228,DETECTIVE VISION,4,0.99,143,16.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Classics,27.0,2.0,7.0,1.0
+249,DRACULA CRYSTAL,7,0.99,176,26.99,G,Commentaries,Classics,21.0,2.0,6.0,0.0
+266,DYNAMITE TARZAN,4,0.99,141,27.99,PG-13,Deleted Scenes,Classics,25.0,2.0,8.0,0.0
+297,EXTRAORDINARY CONQUERER,6,2.99,122,29.99,G,"Trailers,Commentaries,Deleted Scenes",Classics,6.0,1.0,2.0,0.0
+341,FROST HEAD,5,0.99,82,13.99,PG,"Trailers,Deleted Scenes",Classics,30.0,2.0,8.0,1.0
+346,GALAXY SWEETHEARTS,4,4.99,128,13.99,R,Deleted Scenes,Classics,18.0,2.0,6.0,0.0
+357,GILBERT PELICAN,7,0.99,114,13.99,G,"Trailers,Commentaries",Classics,9.0,1.0,4.0,0.0
+358,GILMORE BOILED,5,0.99,163,29.99,R,"Trailers,Behind the Scenes",Classics,28.0,2.0,8.0,0.0
+425,HOLY TADPOLE,6,0.99,88,20.99,R,Behind the Scenes,Classics,9.0,1.0,2.0,0.0
+432,HOPE TOOTSIE,4,2.99,139,22.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",Classics,18.0,2.0,5.0,0.0
+445,HYDE DOCTOR,5,2.99,100,11.99,G,"Trailers,Deleted Scenes",Classics,26.0,2.0,6.0,1.0
+469,IRON MOON,7,4.99,46,27.99,PG,"Commentaries,Behind the Scenes",Classics,11.0,1.0,3.0,0.0
+471,ISLAND EXORCIST,7,2.99,84,23.99,NC-17,"Trailers,Commentaries",Classics,26.0,2.0,7.0,0.0
+480,JEEPERS WEDDING,3,2.99,84,29.99,R,"Trailers,Commentaries,Deleted Scenes",Classics,16.0,2.0,4.0,0.0
+482,JEOPARDY ENCINO,3,0.99,102,12.99,R,"Trailers,Commentaries",Classics,10.0,1.0,3.0,0.0
+484,JERK PAYCHECK,3,2.99,172,13.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Classics,20.0,2.0,7.0,0.0
+487,JINGLE SAGEBRUSH,6,4.99,124,29.99,PG-13,"Trailers,Commentaries",Classics,13.0,1.0,3.0,0.0
+512,LEAGUE HELLFIGHTERS,5,4.99,110,25.99,PG-13,Trailers,Classics,17.0,2.0,6.0,0.0
+523,LIGHTS DEER,7,0.99,174,21.99,R,Commentaries,Classics,8.0,1.0,2.0,0.0
+525,LOATHING LEGALLY,4,0.99,140,29.99,R,Deleted Scenes,Classics,27.0,2.0,8.0,1.0
+536,LOVELY JINGLE,3,2.99,65,18.99,PG,"Trailers,Behind the Scenes",Classics,14.0,2.0,5.0,1.0
+537,LOVER TRUMAN,3,2.99,75,29.99,G,Trailers,Classics,10.0,1.0,3.0,0.0
+548,MAGNIFICENT CHITTY,3,2.99,53,27.99,R,"Commentaries,Deleted Scenes",Classics,8.0,1.0,2.0,0.0
+554,MALKOVICH PET,6,2.99,159,22.99,G,Behind the Scenes,Classics,26.0,2.0,7.0,0.0
+578,MILLION ACE,4,4.99,142,16.99,PG-13,Deleted Scenes,Classics,20.0,2.0,5.0,0.0
+611,MUSKETEERS WAIT,7,4.99,73,17.99,PG,"Deleted Scenes,Behind the Scenes",Classics,17.0,2.0,6.0,0.0
+633,OCTOBER SUBMARINE,6,4.99,54,10.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Classics,11.0,1.0,3.0,0.0
+652,PAJAMA JAWBREAKER,3,0.99,126,14.99,R,"Trailers,Deleted Scenes",Classics,14.0,1.0,4.0,0.0
+663,PATIENT SISTER,7,0.99,99,29.99,NC-17,"Trailers,Commentaries",Classics,19.0,2.0,5.0,0.0
+694,PREJUDICE OLEANDER,6,4.99,98,15.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Classics,20.0,2.0,6.0,0.0
+725,REQUIEM TYCOON,6,4.99,167,25.99,R,"Trailers,Commentaries,Behind the Scenes",Classics,19.0,2.0,6.0,0.0
+731,RIGHT CRANES,7,4.99,153,29.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Classics,10.0,1.0,3.0,0.0
+744,ROOTS REMEMBER,4,0.99,89,23.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Classics,17.0,2.0,5.0,0.0
+808,SLING LUKE,5,0.99,84,10.99,R,Behind the Scenes,Classics,6.0,1.0,2.0,0.0
+815,SNATCHERS MONTEZUMA,4,2.99,74,14.99,PG-13,Commentaries,Classics,9.0,1.0,3.0,0.0
+828,SPIKING ELEMENT,7,2.99,79,12.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Classics,13.0,1.0,4.0,0.0
+843,STEEL SANTA,4,4.99,143,15.99,NC-17,"Commentaries,Deleted Scenes",Classics,23.0,2.0,7.0,0.0
+862,SUMMER SCARFACE,5,0.99,53,25.99,G,"Deleted Scenes,Behind the Scenes",Classics,16.0,2.0,5.0,1.0
+874,TADPOLE PARK,6,2.99,155,13.99,PG,"Trailers,Commentaries",Classics,,,,
+891,TIMBERLAND SKY,3,0.99,69,13.99,G,Commentaries,Classics,31.0,2.0,7.0,0.0
+895,TOMORROW HUSTLER,3,2.99,142,21.99,R,Commentaries,Classics,25.0,2.0,7.0,0.0
+899,TOWERS HURRICANE,7,0.99,144,14.99,NC-17,"Commentaries,Behind the Scenes",Classics,11.0,1.0,3.0,0.0
+950,VOLUME HOUSE,7,4.99,132,12.99,PG,Commentaries,Classics,,,,
+951,VOYAGE LEGALLY,6,0.99,78,28.99,PG-13,"Commentaries,Behind the Scenes",Classics,28.0,2.0,7.0,0.0
+962,WASTELAND DIVINE,7,2.99,85,18.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Classics,15.0,1.0,4.0,0.0
+970,WESTWARD SEABISCUIT,7,0.99,52,11.99,NC-17,"Commentaries,Deleted Scenes",Classics,26.0,2.0,7.0,0.0
+7,AIRPLANE SIERRA,6,4.99,62,28.99,PG-13,"Trailers,Deleted Scenes",Comedy,15.0,2.0,5.0,0.0
+28,ANTHEM LUKE,5,4.99,91,16.99,PG-13,"Deleted Scenes,Behind the Scenes",Comedy,15.0,1.0,3.0,0.0
+99,BRINGING HYSTERICAL,7,2.99,136,14.99,PG,Trailers,Comedy,20.0,2.0,6.0,0.0
+119,CAPER MOTIONS,6,0.99,176,22.99,G,"Trailers,Commentaries,Deleted Scenes",Comedy,24.0,2.0,7.0,0.0
+127,CAT CONEHEADS,5,4.99,112,14.99,G,"Commentaries,Deleted Scenes",Comedy,30.0,2.0,8.0,1.0
+159,CLOSER BANG,5,4.99,58,12.99,R,"Trailers,Behind the Scenes",Comedy,28.0,2.0,7.0,0.0
+178,CONNECTION MICROCOSMOS,6,0.99,115,25.99,G,"Deleted Scenes,Behind the Scenes",Comedy,7.0,1.0,2.0,1.0
+182,CONTROL ANTHEM,7,4.99,185,9.99,G,Commentaries,Comedy,7.0,1.0,2.0,0.0
+188,CRAZY HOME,7,2.99,136,24.99,PG,"Commentaries,Deleted Scenes",Comedy,9.0,1.0,3.0,0.0
+202,DADDY PITTSBURGH,5,4.99,161,26.99,G,"Deleted Scenes,Behind the Scenes",Comedy,13.0,1.0,3.0,0.0
+242,DOOM DANCING,4,0.99,68,13.99,R,"Trailers,Commentaries",Comedy,21.0,2.0,5.0,0.0
+247,DOWNHILL ENOUGH,3,0.99,47,19.99,G,"Trailers,Commentaries,Deleted Scenes",Comedy,25.0,2.0,7.0,0.0
+265,DYING MAKER,5,4.99,168,28.99,PG,Behind the Scenes,Comedy,17.0,1.0,4.0,0.0
+276,ELEMENT FREDDY,6,4.99,115,28.99,NC-17,"Commentaries,Behind the Scenes",Comedy,10.0,1.0,4.0,0.0
+308,FERRIS MOTHER,3,2.99,142,13.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Comedy,17.0,2.0,4.0,0.0
+317,FIREBALL PHILADELPHIA,4,0.99,148,25.99,PG,"Trailers,Commentaries,Behind the Scenes",Comedy,21.0,2.0,7.0,0.0
+324,FLINTSTONES HAPPINESS,3,4.99,148,11.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,17.0,2.0,5.0,0.0
+332,FRANKENSTEIN STRANGER,7,0.99,159,16.99,NC-17,"Deleted Scenes,Behind the Scenes",Comedy,,,,
+335,FREEDOM CLEOPATRA,5,0.99,133,23.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Comedy,5.0,1.0,2.0,0.0
+365,GOLD RIVER,4,4.99,154,21.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,14.0,2.0,4.0,0.0
+385,GROUNDHOG UNCUT,6,4.99,139,26.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,18.0,2.0,5.0,1.0
+388,GUNFIGHT MOON,5,0.99,70,16.99,NC-17,"Deleted Scenes,Behind the Scenes",Comedy,24.0,2.0,6.0,1.0
+404,HATE HANDICAP,4,0.99,107,26.99,PG,"Trailers,Commentaries,Behind the Scenes",Comedy,,,,
+410,HEAVEN FREEDOM,7,2.99,48,19.99,PG,Commentaries,Comedy,18.0,2.0,5.0,0.0
+413,HEDWIG ALTER,7,2.99,169,16.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Comedy,12.0,1.0,3.0,0.0
+443,HURRICANE AFFAIR,6,2.99,49,11.99,PG,"Trailers,Commentaries,Behind the Scenes",Comedy,24.0,2.0,7.0,0.0
+444,HUSTLER PARTY,3,4.99,83,22.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Comedy,22.0,2.0,8.0,0.0
+478,JAWS HARRY,4,2.99,112,10.99,G,Deleted Scenes,Comedy,14.0,2.0,5.0,0.0
+502,KNOCK WARLOCK,4,2.99,71,21.99,PG-13,Trailers,Comedy,24.0,2.0,7.0,0.0
+522,LIFE TWISTED,4,2.99,137,9.99,NC-17,"Commentaries,Deleted Scenes",Comedy,10.0,1.0,2.0,0.0
+524,LION UNCUT,6,0.99,50,13.99,PG,"Trailers,Deleted Scenes",Comedy,18.0,2.0,6.0,0.0
+529,LONELY ELEPHANT,3,2.99,67,12.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,15.0,1.0,4.0,0.0
+555,MALLRATS UNITED,4,0.99,133,25.99,PG,"Trailers,Commentaries,Deleted Scenes",Comedy,25.0,2.0,7.0,0.0
+568,MEMENTO ZOOLANDER,4,4.99,77,11.99,NC-17,Behind the Scenes,Comedy,13.0,2.0,4.0,0.0
+604,MULAN MOON,4,0.99,160,10.99,G,Behind the Scenes,Comedy,13.0,1.0,3.0,1.0
+613,MYSTIC TRUMAN,5,0.99,92,19.99,NC-17,"Commentaries,Behind the Scenes",Comedy,10.0,1.0,2.0,0.0
+638,OPERATION OPERATION,7,2.99,156,23.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,27.0,2.0,8.0,1.0
+657,PARADISE SABRINA,5,2.99,48,12.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Comedy,18.0,2.0,6.0,0.0
+660,PARTY KNOCK,7,2.99,107,11.99,PG,"Trailers,Behind the Scenes",Comedy,13.0,2.0,4.0,0.0
+672,PERFECT GROOVE,7,2.99,82,17.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Comedy,17.0,2.0,6.0,0.0
+680,PINOCCHIO SIMON,4,4.99,103,21.99,PG,"Commentaries,Behind the Scenes",Comedy,20.0,2.0,6.0,0.0
+704,PURE RUNNER,3,2.99,121,25.99,NC-17,"Trailers,Deleted Scenes",Comedy,16.0,2.0,5.0,1.0
+754,RUSHMORE MERMAID,6,2.99,150,17.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Comedy,6.0,1.0,2.0,0.0
+756,SADDLE ANTITRUST,7,2.99,80,10.99,PG-13,"Trailers,Deleted Scenes",Comedy,14.0,1.0,3.0,0.0
+765,SATURN NAME,7,4.99,182,18.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,13.0,1.0,4.0,0.0
+774,SEARCHERS WAIT,3,2.99,182,22.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Comedy,14.0,1.0,4.0,0.0
+814,SNATCH SLIPPER,6,4.99,110,15.99,PG,Commentaries,Comedy,22.0,2.0,7.0,0.0
+837,STAGE WORLD,4,2.99,85,19.99,PG,"Commentaries,Behind the Scenes",Comedy,10.0,1.0,3.0,0.0
+857,STRICTLY SCARFACE,3,2.99,144,24.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Comedy,23.0,2.0,7.0,0.0
+858,SUBMARINE BED,5,4.99,127,21.99,R,Trailers,Comedy,15.0,1.0,4.0,0.0
+871,SWEDEN SHINING,6,4.99,176,19.99,PG,"Deleted Scenes,Behind the Scenes",Comedy,18.0,2.0,5.0,1.0
+905,TRAINSPOTTING STRANGERS,7,4.99,132,10.99,PG-13,Trailers,Comedy,11.0,1.0,3.0,0.0
+906,TRAMP OTHERS,4,0.99,171,27.99,PG,Deleted Scenes,Comedy,20.0,2.0,5.0,0.0
+932,VALLEY PACKER,3,0.99,73,21.99,G,"Commentaries,Deleted Scenes",Comedy,15.0,2.0,4.0,0.0
+938,VELVET TERMINATOR,3,4.99,173,14.99,R,Behind the Scenes,Comedy,26.0,2.0,6.0,0.0
+939,VERTIGO NORTHWEST,4,2.99,90,17.99,R,"Commentaries,Behind the Scenes",Comedy,8.0,1.0,4.0,0.0
+978,WISDOM WORKER,3,0.99,98,12.99,R,"Deleted Scenes,Behind the Scenes",Comedy,9.0,1.0,3.0,0.0
+1000,ZORRO ARK,3,4.99,50,18.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Comedy,31.0,2.0,8.0,0.0
+1,ACADEMY DINOSAUR,6,0.99,86,20.99,PG,"Deleted Scenes,Behind the Scenes",Documentary,24.0,2.0,8.0,0.0
+3,ADAPTATION HOLES,7,2.99,50,18.99,NC-17,"Trailers,Deleted Scenes",Documentary,12.0,1.0,4.0,0.0
+40,ARMY FLINTSTONES,4,0.99,148,22.99,R,"Trailers,Commentaries",Documentary,16.0,1.0,4.0,0.0
+58,BEACH HEARTBREAKERS,6,2.99,122,16.99,G,"Deleted Scenes,Behind the Scenes",Documentary,17.0,1.0,4.0,0.0
+62,BED HIGHBALL,5,2.99,106,23.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Documentary,6.0,1.0,2.0,0.0
+72,BILL OTHERS,6,2.99,93,12.99,PG,"Trailers,Commentaries",Documentary,19.0,2.0,6.0,0.0
+85,BONNIE HOLOCAUST,4,0.99,63,29.99,G,Deleted Scenes,Documentary,16.0,1.0,4.0,0.0
+101,BROTHERHOOD BLANKET,3,0.99,73,26.99,R,Behind the Scenes,Documentary,26.0,2.0,6.0,0.0
+129,CAUSE DATE,3,2.99,179,16.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Documentary,21.0,2.0,6.0,0.0
+142,CHICKEN HELLFIGHTERS,3,0.99,122,24.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Documentary,22.0,2.0,5.0,0.0
+150,CIDER DESIRE,7,2.99,101,9.99,PG,Behind the Scenes,Documentary,19.0,2.0,6.0,0.0
+156,CLERKS ANGELS,3,4.99,164,15.99,G,Commentaries,Documentary,7.0,1.0,2.0,0.0
+164,COAST RAINBOW,4,0.99,55,20.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Documentary,21.0,2.0,5.0,0.0
+199,CUPBOARD SINNERS,4,2.99,56,29.99,R,Behind the Scenes,Documentary,23.0,2.0,8.0,0.0
+206,DANCING FEVER,6,0.99,144,25.99,G,"Commentaries,Behind the Scenes",Documentary,27.0,2.0,8.0,0.0
+219,DEEP CRUSADE,6,4.99,51,20.99,PG-13,"Commentaries,Behind the Scenes",Documentary,14.0,1.0,4.0,1.0
+221,DELIVERANCE MULHOLLAND,4,0.99,100,9.99,R,Deleted Scenes,Documentary,,,,
+248,DOZEN LION,6,4.99,177,20.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Documentary,7.0,1.0,2.0,0.0
+261,DUFFEL APOCALYPSE,5,0.99,171,13.99,G,Commentaries,Documentary,7.0,1.0,2.0,0.0
+274,EGG IGBY,4,2.99,67,20.99,PG,"Commentaries,Behind the Scenes",Documentary,21.0,2.0,7.0,0.0
+295,EXPENDABLE STALLION,3,0.99,97,14.99,PG,"Trailers,Behind the Scenes",Documentary,28.0,2.0,8.0,0.0
+336,FRENCH HOLIDAY,5,4.99,99,22.99,PG,Behind the Scenes,Documentary,17.0,2.0,5.0,0.0
+393,HALLOWEEN NUTS,6,2.99,47,19.99,PG-13,Deleted Scenes,Documentary,10.0,1.0,2.0,0.0
+400,HARDLY ROBBERS,7,2.99,72,15.99,R,"Trailers,Behind the Scenes",Documentary,4.0,1.0,2.0,0.0
+407,HAWK CHILL,5,0.99,47,12.99,PG-13,Behind the Scenes,Documentary,7.0,1.0,2.0,0.0
+412,HEAVYWEIGHTS BEAST,6,4.99,102,25.99,G,Deleted Scenes,Documentary,23.0,2.0,8.0,0.0
+427,HOMEWARD CIDER,5,0.99,103,19.99,R,Trailers,Documentary,16.0,1.0,4.0,0.0
+441,HUNTER ALTER,5,2.99,125,21.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Documentary,5.0,1.0,2.0,0.0
+457,INDEPENDENCE HOTEL,5,0.99,157,21.99,NC-17,"Trailers,Behind the Scenes",Documentary,19.0,2.0,6.0,0.0
+466,INTOLERABLE INTENTIONS,6,4.99,63,20.99,PG-13,"Commentaries,Behind the Scenes",Documentary,9.0,1.0,2.0,0.0
+497,KILL BROTHERHOOD,4,0.99,54,15.99,G,"Trailers,Commentaries",Documentary,,,,
+544,MADISON TRAP,4,2.99,147,11.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Documentary,15.0,2.0,4.0,0.0
+552,MAJESTIC FLOATS,5,0.99,130,15.99,PG,Trailers,Documentary,17.0,1.0,4.0,0.0
+571,METAL ARMAGEDDON,6,2.99,161,26.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Documentary,25.0,2.0,6.0,0.0
+575,MIDSUMMER GROUNDHOG,3,4.99,48,27.99,G,"Trailers,Deleted Scenes",Documentary,22.0,2.0,6.0,0.0
+576,MIGHTY LUCK,7,2.99,122,13.99,PG,Behind the Scenes,Documentary,12.0,1.0,3.0,0.0
+587,MOD SECRETARY,6,4.99,77,20.99,NC-17,"Commentaries,Behind the Scenes",Documentary,11.0,1.0,3.0,0.0
+589,MODERN DORADO,3,0.99,74,20.99,PG,"Trailers,Commentaries,Deleted Scenes",Documentary,15.0,1.0,4.0,0.0
+616,NATIONAL STORY,4,2.99,92,19.99,NC-17,Trailers,Documentary,19.0,2.0,6.0,0.0
+622,NEWSIES STORY,4,0.99,159,25.99,G,"Trailers,Deleted Scenes",Documentary,7.0,1.0,2.0,0.0
+627,NORTH TEQUILA,4,4.99,67,9.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Documentary,11.0,1.0,3.0,0.0
+629,NOTORIOUS REUNION,7,0.99,128,9.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Documentary,14.0,1.0,4.0,0.0
+650,PACIFIC AMISTAD,3,0.99,144,27.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Documentary,24.0,2.0,6.0,0.0
+670,PELICAN COMFORTS,4,4.99,48,17.99,PG,"Commentaries,Deleted Scenes",Documentary,26.0,2.0,7.0,0.0
+687,POCUS PULP,6,0.99,138,15.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Documentary,26.0,2.0,7.0,0.0
+698,PRINCESS GIANT,3,2.99,71,29.99,NC-17,"Trailers,Deleted Scenes",Documentary,27.0,2.0,7.0,1.0
+708,QUILLS BULL,4,4.99,112,19.99,R,"Trailers,Behind the Scenes",Documentary,16.0,2.0,4.0,0.0
+712,RAIDERS ANTITRUST,4,0.99,82,11.99,PG-13,Deleted Scenes,Documentary,,,,
+713,RAINBOW SHOCK,3,4.99,74,14.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Documentary,,,,
+734,ROAD ROXANNE,4,4.99,158,12.99,R,Behind the Scenes,Documentary,19.0,2.0,6.0,0.0
+757,SAGEBRUSH CLUELESS,4,2.99,106,28.99,G,Trailers,Documentary,16.0,2.0,5.0,0.0
+776,SECRET GROUNDHOG,6,4.99,90,11.99,PG,"Commentaries,Deleted Scenes",Documentary,21.0,2.0,5.0,0.0
+788,SHIP WONDERLAND,5,2.99,104,15.99,R,Commentaries,Documentary,15.0,2.0,4.0,0.0
+791,SHOW LORD,3,4.99,167,24.99,PG-13,Deleted Scenes,Documentary,25.0,2.0,6.0,0.0
+812,SMOKING BARBARELLA,7,0.99,50,13.99,PG-13,Behind the Scenes,Documentary,18.0,2.0,6.0,1.0
+834,SPOILERS HELLFIGHTERS,4,0.99,151,26.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Documentary,10.0,1.0,3.0,0.0
+855,STREAK RIDGEMONT,7,0.99,132,28.99,PG-13,"Trailers,Behind the Scenes",Documentary,16.0,2.0,4.0,1.0
+888,THIN SAGEBRUSH,5,4.99,53,9.99,PG-13,Behind the Scenes,Documentary,11.0,1.0,4.0,0.0
+925,UNITED PILOT,3,0.99,164,27.99,R,"Trailers,Deleted Scenes",Documentary,17.0,2.0,5.0,0.0
+926,UNTOUCHABLES SUNRISE,5,2.99,120,11.99,NC-17,"Trailers,Deleted Scenes",Documentary,8.0,1.0,2.0,0.0
+943,VILLAIN DESPERATE,4,4.99,76,27.99,PG-13,"Trailers,Commentaries",Documentary,,,,
+945,VIRGINIAN PLUTO,5,0.99,164,22.99,R,Deleted Scenes,Documentary,29.0,2.0,8.0,1.0
+952,WAGON JAWS,7,2.99,152,17.99,PG,"Deleted Scenes,Behind the Scenes",Documentary,10.0,1.0,3.0,0.0
+960,WARS PLUTO,5,2.99,128,15.99,G,"Commentaries,Behind the Scenes",Documentary,10.0,1.0,3.0,0.0
+966,WEDDING APOLLO,3,0.99,70,14.99,PG,Trailers,Documentary,24.0,2.0,6.0,1.0
+973,WIFE TURN,3,4.99,183,27.99,NC-17,"Deleted Scenes,Behind the Scenes",Documentary,31.0,2.0,8.0,0.0
+992,WRATH MILE,5,0.99,176,17.99,NC-17,"Trailers,Commentaries",Documentary,14.0,1.0,4.0,0.0
+996,YOUNG LANGUAGE,6,0.99,183,9.99,G,"Trailers,Behind the Scenes",Documentary,7.0,1.0,2.0,0.0
+33,APOLLO TEEN,5,2.99,153,15.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Drama,,,,
+61,BEAUTY GREASE,5,4.99,175,28.99,G,"Trailers,Commentaries",Drama,22.0,2.0,6.0,0.0
+64,BEETHOVEN EXORCIST,6,0.99,151,26.99,PG-13,"Commentaries,Behind the Scenes",Drama,11.0,1.0,3.0,0.0
+79,BLADE POLISH,5,0.99,114,10.99,PG-13,"Trailers,Behind the Scenes",Drama,22.0,2.0,6.0,1.0
+98,BRIGHT ENCOUNTERS,4,4.99,73,12.99,PG-13,Trailers,Drama,13.0,1.0,3.0,0.0
+107,BUNCH MINDS,4,2.99,63,13.99,G,Behind the Scenes,Drama,5.0,1.0,2.0,0.0
+143,CHILL LUCK,6,0.99,142,17.99,PG,"Trailers,Commentaries,Deleted Scenes",Drama,22.0,2.0,7.0,0.0
+146,CHITTY LOCK,6,2.99,107,24.99,G,Commentaries,Drama,8.0,1.0,3.0,1.0
+172,CONEHEADS SMOOCHY,7,4.99,112,12.99,NC-17,"Deleted Scenes,Behind the Scenes",Drama,25.0,2.0,7.0,0.0
+173,CONFESSIONS MAGUIRE,7,4.99,65,25.99,PG-13,Behind the Scenes,Drama,14.0,2.0,5.0,0.0
+179,CONQUERER NUTS,4,4.99,173,14.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Drama,16.0,1.0,4.0,0.0
+186,CRAFT OUTFIELD,6,0.99,64,17.99,NC-17,"Deleted Scenes,Behind the Scenes",Drama,16.0,2.0,4.0,0.0
+204,DALMATIONS SWEDEN,4,0.99,106,25.99,PG,"Trailers,Commentaries,Deleted Scenes",Drama,20.0,2.0,6.0,0.0
+209,DARKNESS WAR,6,2.99,99,24.99,NC-17,"Deleted Scenes,Behind the Scenes",Drama,13.0,1.0,4.0,0.0
+218,DECEIVER BETRAYED,7,0.99,122,22.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Drama,21.0,2.0,7.0,0.0
+225,DESTINATION JERK,3,0.99,76,19.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Drama,8.0,1.0,3.0,0.0
+230,DIARY PANIC,7,2.99,107,20.99,G,"Commentaries,Behind the Scenes",Drama,9.0,1.0,2.0,0.0
+272,EDGE KISSING,5,4.99,153,9.99,NC-17,Deleted Scenes,Drama,15.0,1.0,4.0,0.0
+282,ENCOUNTERS CURTAIN,5,0.99,92,20.99,NC-17,Trailers,Drama,19.0,2.0,6.0,0.0
+366,GOLDFINGER SENSIBILITY,3,0.99,93,29.99,G,"Trailers,Commentaries,Behind the Scenes",Drama,24.0,2.0,7.0,0.0
+368,GONE TROUBLE,7,2.99,84,20.99,R,"Deleted Scenes,Behind the Scenes",Drama,10.0,1.0,2.0,0.0
+379,GREEDY ROOTS,7,0.99,166,14.99,R,"Trailers,Commentaries,Deleted Scenes",Drama,14.0,1.0,4.0,0.0
+396,HANGING DEEP,5,4.99,62,18.99,G,"Trailers,Commentaries,Deleted Scenes",Drama,19.0,1.0,4.0,0.0
+401,HAROLD FRENCH,6,0.99,168,10.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Drama,8.0,1.0,2.0,0.0
+403,HARRY IDAHO,5,4.99,121,18.99,PG-13,"Commentaries,Deleted Scenes",Drama,30.0,2.0,8.0,1.0
+418,HOBBIT ALIEN,5,0.99,157,27.99,PG-13,Commentaries,Drama,31.0,2.0,8.0,0.0
+439,HUNCHBACK IMPOSSIBLE,4,4.99,151,28.99,PG-13,"Trailers,Deleted Scenes",Drama,20.0,2.0,6.0,1.0
+473,JACKET FRISCO,5,2.99,181,16.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Drama,18.0,2.0,5.0,0.0
+504,KWAI HOMEWARD,5,0.99,46,25.99,PG-13,"Trailers,Commentaries",Drama,23.0,2.0,6.0,0.0
+514,LEBOWSKI SOLDIERS,6,2.99,69,17.99,PG-13,"Commentaries,Deleted Scenes",Drama,21.0,2.0,6.0,0.0
+521,LIES TREATMENT,7,4.99,147,28.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Drama,27.0,2.0,7.0,0.0
+539,LUCK OPUS,7,2.99,152,21.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Drama,10.0,1.0,2.0,0.0
+585,MOB DUFFEL,4,0.99,105,25.99,G,Trailers,Drama,12.0,1.0,4.0,0.0
+618,NECKLACE OUTBREAK,3,0.99,132,21.99,PG,"Trailers,Commentaries,Behind the Scenes",Drama,15.0,1.0,4.0,0.0
+630,NOTTING SPEAKEASY,7,0.99,48,19.99,PG-13,"Trailers,Commentaries",Drama,10.0,1.0,3.0,0.0
+643,ORIENT CLOSER,3,2.99,118,22.99,R,"Commentaries,Deleted Scenes",Drama,17.0,2.0,6.0,0.0
+662,PATHS CONTROL,3,4.99,118,9.99,PG,"Trailers,Behind the Scenes",Drama,10.0,2.0,4.0,0.0
+666,PAYCHECK WAIT,4,4.99,145,27.99,PG-13,"Commentaries,Deleted Scenes",Drama,16.0,2.0,5.0,0.0
+683,PITY BOUND,5,4.99,60,19.99,NC-17,Commentaries,Drama,26.0,2.0,8.0,0.0
+706,QUEEN LUKE,5,4.99,163,22.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Drama,22.0,2.0,6.0,1.0
+709,RACER EGG,7,2.99,147,19.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Drama,18.0,2.0,6.0,0.0
+728,REUNION WITCHES,3,0.99,63,26.99,R,Commentaries,Drama,20.0,2.0,5.0,0.0
+739,ROCKY WAR,4,4.99,145,17.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Drama,16.0,2.0,5.0,0.0
+758,SAINTS BRIDE,5,2.99,125,11.99,G,Deleted Scenes,Drama,8.0,1.0,3.0,0.0
+766,SAVANNAH TOWN,5,0.99,84,25.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Drama,12.0,1.0,3.0,0.0
+771,SCORPION APOLLO,3,4.99,137,23.99,NC-17,"Commentaries,Deleted Scenes",Drama,23.0,2.0,7.0,0.0
+772,SEA VIRGIN,4,2.99,80,24.99,PG,Deleted Scenes,Drama,22.0,2.0,6.0,0.0
+775,SEATTLE EXPECATIONS,4,4.99,110,18.99,PG-13,Trailers,Drama,24.0,2.0,5.0,1.0
+790,SHOOTIST SUPERFLY,6,0.99,67,22.99,PG-13,Trailers,Drama,24.0,2.0,7.0,0.0
+803,SLACKER LIAISONS,7,4.99,179,29.99,R,"Trailers,Commentaries,Behind the Scenes",Drama,17.0,2.0,6.0,0.0
+818,SOMETHING DUCK,4,4.99,180,17.99,NC-17,"Commentaries,Behind the Scenes",Drama,19.0,2.0,5.0,0.0
+827,SPICE SORORITY,5,4.99,141,22.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Drama,20.0,2.0,6.0,0.0
+882,TENENBAUMS COMMAND,4,0.99,99,24.99,PG-13,"Trailers,Commentaries",Drama,13.0,1.0,4.0,0.0
+897,TORQUE BOUND,3,4.99,179,27.99,G,"Trailers,Commentaries",Drama,27.0,2.0,8.0,1.0
+907,TRANSLATION SUMMER,4,0.99,168,10.99,PG-13,Trailers,Drama,15.0,1.0,4.0,0.0
+910,TREATMENT JEKYLL,3,0.99,87,19.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Drama,7.0,1.0,2.0,0.0
+923,UNFAITHFUL KILL,7,2.99,78,12.99,R,"Commentaries,Deleted Scenes",Drama,8.0,1.0,3.0,0.0
+942,VIETNAM SMOOCHY,7,0.99,174,27.99,PG-13,"Deleted Scenes,Behind the Scenes",Drama,15.0,2.0,4.0,0.0
+944,VIRGIN DAISY,6,4.99,179,29.99,PG-13,"Trailers,Behind the Scenes",Drama,17.0,2.0,5.0,0.0
+958,WARDROBE PHANTOM,6,2.99,178,19.99,G,"Trailers,Commentaries",Drama,27.0,2.0,6.0,0.0
+969,WEST LION,4,4.99,159,29.99,G,Trailers,Drama,16.0,1.0,4.0,0.0
+979,WITCHES PANIC,6,4.99,100,10.99,NC-17,"Commentaries,Behind the Scenes",Drama,30.0,2.0,7.0,0.0
+5,AFRICAN EGG,6,2.99,130,22.99,G,Deleted Scenes,Family,12.0,1.0,3.0,1.0
+31,APACHE DIVINE,5,4.99,92,16.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Family,31.0,2.0,8.0,0.0
+43,ATLANTIS CAUSE,6,2.99,170,15.99,G,Behind the Scenes,Family,24.0,2.0,7.0,0.0
+50,BAKED CLEOPATRA,3,2.99,182,20.99,G,"Commentaries,Behind the Scenes",Family,16.0,2.0,5.0,1.0
+53,BANG KWAI,5,2.99,87,25.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Family,7.0,1.0,2.0,1.0
+63,BEDAZZLED MARRIED,6,0.99,73,21.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Family,13.0,2.0,4.0,0.0
+71,BILKO ANONYMOUS,3,4.99,100,25.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Family,13.0,1.0,4.0,0.0
+80,BLANKET BEVERLY,7,2.99,148,21.99,G,Trailers,Family,12.0,1.0,4.0,1.0
+82,BLOOD ARGONAUTS,3,0.99,71,13.99,G,"Trailers,Commentaries,Behind the Scenes",Family,10.0,1.0,2.0,0.0
+83,BLUES INSTINCT,5,2.99,50,18.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Family,21.0,2.0,5.0,0.0
+94,BRAVEHEART HUMAN,7,2.99,176,14.99,PG-13,"Trailers,Deleted Scenes",Family,5.0,1.0,2.0,0.0
+139,CHASING FIGHT,7,4.99,114,21.99,PG,"Trailers,Commentaries",Family,20.0,2.0,6.0,1.0
+145,CHISUM BEHAVIOR,5,4.99,124,25.99,G,"Trailers,Commentaries,Behind the Scenes",Family,13.0,1.0,3.0,0.0
+147,CHOCOLAT HARRY,5,0.99,101,16.99,NC-17,"Commentaries,Behind the Scenes",Family,20.0,2.0,6.0,0.0
+175,CONFUSED CANDLES,3,2.99,122,27.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Family,17.0,2.0,5.0,0.0
+183,CONVERSATION DOWNHILL,4,4.99,112,14.99,R,Commentaries,Family,17.0,2.0,6.0,1.0
+213,DATE SPEED,4,0.99,104,19.99,R,Commentaries,Family,13.0,1.0,4.0,0.0
+231,DINOSAUR SECRETARY,7,2.99,63,27.99,R,"Trailers,Behind the Scenes",Family,20.0,2.0,8.0,0.0
+262,DUMBO LUST,5,0.99,119,17.99,NC-17,Behind the Scenes,Family,6.0,1.0,2.0,0.0
+269,EARRING INSTINCT,3,0.99,98,22.99,R,Behind the Scenes,Family,19.0,2.0,6.0,0.0
+273,EFFECT GLADIATOR,6,0.99,107,14.99,PG,Commentaries,Family,25.0,2.0,7.0,1.0
+309,FEUD FROGMEN,6,0.99,98,29.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Family,25.0,2.0,6.0,0.0
+315,FINDING ANACONDA,4,0.99,156,10.99,R,"Trailers,Commentaries",Family,12.0,1.0,3.0,0.0
+345,GABLES METROPOLIS,3,0.99,161,17.99,PG,"Trailers,Commentaries",Family,19.0,2.0,5.0,1.0
+348,GANDHI KWAI,7,0.99,86,9.99,PG-13,Trailers,Family,17.0,1.0,4.0,0.0
+359,GLADIATOR WESTWARD,6,4.99,173,20.99,PG,"Commentaries,Deleted Scenes",Family,,,,
+377,GREASE YOUTH,7,0.99,135,20.99,G,"Trailers,Deleted Scenes",Family,21.0,2.0,6.0,0.0
+391,HALF OUTFIELD,6,2.99,146,25.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Family,26.0,2.0,7.0,1.0
+419,HOCUS FRIDA,4,2.99,141,19.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Family,,,,
+428,HOMICIDE PEACH,6,2.99,141,21.99,PG-13,Commentaries,Family,22.0,2.0,6.0,0.0
+437,HOUSE DYNAMITE,7,2.99,109,13.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Family,23.0,2.0,6.0,0.0
+442,HUNTING MUSKETEERS,6,2.99,65,24.99,NC-17,"Trailers,Deleted Scenes",Family,15.0,1.0,3.0,0.0
+458,INDIAN LOVE,4,0.99,135,26.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Family,16.0,2.0,6.0,0.0
+476,JASON TRAP,5,2.99,130,9.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",Family,24.0,2.0,7.0,1.0
+479,JEDI BENEATH,7,0.99,128,12.99,PG,"Trailers,Commentaries,Deleted Scenes",Family,19.0,2.0,5.0,0.0
+498,KILLER INNOCENT,7,2.99,161,11.99,R,"Trailers,Commentaries,Deleted Scenes",Family,6.0,1.0,2.0,0.0
+499,KING EVOLUTION,3,4.99,184,24.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",Family,9.0,1.0,2.0,0.0
+528,LOLITA WORLD,4,2.99,155,25.99,NC-17,"Trailers,Deleted Scenes",Family,10.0,1.0,3.0,0.0
+534,LOUISIANA HARRY,5,0.99,70,18.99,PG-13,Trailers,Family,17.0,2.0,5.0,0.0
+550,MAGUIRE APACHE,6,2.99,74,22.99,NC-17,"Trailers,Commentaries",Family,9.0,1.0,3.0,0.0
+557,MANCHURIAN CURTAIN,5,2.99,177,27.99,PG,"Trailers,Commentaries",Family,15.0,2.0,5.0,0.0
+603,MOVIE SHAKESPEARE,6,4.99,53,27.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Family,27.0,2.0,6.0,1.0
+610,MUSIC BOONDOCK,7,0.99,129,17.99,R,"Trailers,Commentaries,Behind the Scenes",Family,19.0,2.0,5.0,0.0
+617,NATURAL STOCK,4,0.99,50,24.99,PG-13,"Commentaries,Deleted Scenes",Family,13.0,1.0,3.0,0.0
+621,NETWORK PEAK,5,2.99,75,23.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Family,31.0,2.0,8.0,0.0
+634,ODDS BOOGIE,6,0.99,48,14.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Family,15.0,1.0,4.0,0.0
+639,OPPOSITE NECKLACE,7,4.99,92,9.99,PG,Deleted Scenes,Family,13.0,1.0,3.0,1.0
+679,PILOT HOOSIERS,6,2.99,50,17.99,PG,"Trailers,Deleted Scenes",Family,16.0,2.0,4.0,0.0
+682,PITTSBURGH HUNCHBACK,4,4.99,134,17.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Family,12.0,1.0,3.0,0.0
+695,PRESIDENT BANG,6,4.99,144,12.99,PG,Behind the Scenes,Family,7.0,1.0,2.0,0.0
+700,PRIX UNDEFEATED,4,2.99,115,13.99,R,"Trailers,Deleted Scenes",Family,11.0,1.0,3.0,0.0
+710,RAGE GAMES,4,4.99,120,18.99,R,"Trailers,Behind the Scenes",Family,19.0,2.0,6.0,0.0
+715,RANGE MOONWALKER,3,4.99,147,25.99,PG,"Trailers,Commentaries,Deleted Scenes",Family,27.0,2.0,7.0,0.0
+724,REMEMBER DIARY,5,2.99,110,15.99,R,"Trailers,Commentaries",Family,18.0,2.0,6.0,0.0
+727,RESURRECTION SILVERADO,6,0.99,117,12.99,PG,"Trailers,Deleted Scenes",Family,21.0,2.0,5.0,0.0
+736,ROBBERY BRIGHT,4,0.99,134,21.99,R,Trailers,Family,13.0,1.0,4.0,0.0
+753,RUSH GOODFELLAS,3,0.99,48,20.99,PG,Deleted Scenes,Family,31.0,2.0,8.0,0.0
+778,SECRETS PARADISE,3,4.99,109,24.99,G,"Trailers,Commentaries",Family,20.0,2.0,6.0,0.0
+780,SENSIBILITY REAR,7,4.99,98,15.99,PG,Behind the Scenes,Family,10.0,1.0,3.0,0.0
+795,SIEGE MADRE,7,0.99,111,23.99,R,"Trailers,Deleted Scenes",Family,15.0,1.0,4.0,0.0
+810,SLUMS DUCK,5,0.99,147,21.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Family,24.0,2.0,7.0,0.0
+822,SOUP WISDOM,6,0.99,169,12.99,R,Behind the Scenes,Family,8.0,1.0,2.0,0.0
+824,SPARTACUS CHEAPER,4,4.99,52,19.99,NC-17,"Deleted Scenes,Behind the Scenes",Family,9.0,1.0,4.0,0.0
+829,SPINAL ROCKY,7,2.99,138,12.99,PG-13,"Commentaries,Deleted Scenes",Family,13.0,2.0,5.0,0.0
+832,SPLASH GUMP,5,0.99,175,16.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Family,14.0,1.0,4.0,0.0
+866,SUNSET RACER,6,0.99,48,28.99,NC-17,"Commentaries,Behind the Scenes",Family,8.0,1.0,2.0,0.0
+867,SUPER WYOMING,5,4.99,58,10.99,PG,"Trailers,Commentaries,Behind the Scenes",Family,13.0,1.0,4.0,0.0
+946,VIRTUAL SPOILERS,3,4.99,144,14.99,NC-17,"Commentaries,Deleted Scenes",Family,14.0,1.0,4.0,0.0
+975,WILLOW TRACY,6,2.99,137,22.99,R,"Trailers,Commentaries,Behind the Scenes",Family,16.0,2.0,5.0,0.0
+6,AGENT TRUMAN,3,2.99,169,17.99,PG,Deleted Scenes,Foreign,21.0,2.0,6.0,0.0
+11,ALAMO VIDEOTAPE,6,0.99,126,16.99,G,"Commentaries,Behind the Scenes",Foreign,24.0,2.0,7.0,0.0
+15,ALIEN CENTER,5,2.99,46,10.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Foreign,22.0,2.0,6.0,0.0
+16,ALLEY EVOLUTION,6,2.99,180,23.99,NC-17,"Trailers,Commentaries",Foreign,14.0,2.0,4.0,0.0
+47,BABY HALL,5,4.99,153,23.99,NC-17,Commentaries,Foreign,8.0,1.0,2.0,0.0
+52,BALLROOM MOCKINGBIRD,6,0.99,173,29.99,G,"Commentaries,Deleted Scenes",Foreign,8.0,1.0,2.0,0.0
+100,BROOKLYN DESERT,7,4.99,161,21.99,R,Commentaries,Foreign,21.0,2.0,6.0,0.0
+104,BUGSY SONG,4,2.99,119,17.99,G,Commentaries,Foreign,11.0,1.0,3.0,0.0
+112,CALENDAR GUNFIGHT,4,4.99,120,22.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Foreign,21.0,2.0,7.0,0.0
+128,CATCH AMISTAD,7,0.99,183,10.99,G,"Trailers,Behind the Scenes",Foreign,,,,
+148,CHOCOLATE DUCK,3,2.99,132,13.99,R,"Trailers,Commentaries,Behind the Scenes",Foreign,,,,
+170,COMMAND DARLING,5,4.99,120,28.99,PG-13,Behind the Scenes,Foreign,16.0,2.0,6.0,0.0
+185,COWBOY DOOM,3,2.99,146,10.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Foreign,7.0,1.0,2.0,0.0
+192,CROSSING DIVORCE,4,4.99,50,19.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Foreign,,,,
+198,CRYSTAL BREAKING,6,2.99,184,22.99,NC-17,"Trailers,Commentaries",Foreign,,,,
+201,CYCLONE FAMILY,7,2.99,176,18.99,PG,"Trailers,Deleted Scenes",Foreign,15.0,1.0,4.0,1.0
+207,DANGEROUS UPTOWN,7,4.99,121,26.99,PG,Commentaries,Foreign,12.0,1.0,4.0,0.0
+246,DOUBTFIRE LABYRINTH,5,4.99,154,16.99,R,"Deleted Scenes,Behind the Scenes",Foreign,10.0,1.0,3.0,0.0
+290,EVERYONE CRAFT,4,0.99,163,29.99,PG,"Trailers,Commentaries",Foreign,13.0,1.0,3.0,0.0
+311,FICTION CHRISTMAS,4,0.99,72,14.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Foreign,19.0,2.0,7.0,0.0
+337,FRIDA SLIPPER,6,2.99,73,11.99,R,"Trailers,Deleted Scenes",Foreign,11.0,2.0,4.0,1.0
+353,GENTLEMEN STAGE,6,2.99,125,22.99,NC-17,"Commentaries,Deleted Scenes",Foreign,23.0,2.0,6.0,0.0
+376,GRAPES FURY,4,0.99,155,20.99,G,"Commentaries,Behind the Scenes",Foreign,22.0,2.0,7.0,1.0
+380,GREEK EVERYONE,7,2.99,176,11.99,PG,"Trailers,Deleted Scenes",Foreign,17.0,2.0,5.0,0.0
+399,HAPPINESS UNITED,6,2.99,100,23.99,G,Deleted Scenes,Foreign,6.0,1.0,2.0,1.0
+414,HELLFIGHTERS SIERRA,3,2.99,75,23.99,PG,"Deleted Scenes,Behind the Scenes",Foreign,20.0,2.0,6.0,0.0
+416,HIGHBALL POTTER,6,0.99,110,10.99,R,Deleted Scenes,Foreign,21.0,2.0,6.0,0.0
+421,HOLIDAY GAMES,7,4.99,78,10.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Foreign,15.0,1.0,4.0,0.0
+431,HOOSIERS BIRDCAGE,3,2.99,176,12.99,G,"Trailers,Commentaries,Deleted Scenes",Foreign,8.0,1.0,3.0,0.0
+435,HOTEL HAPPINESS,6,4.99,181,28.99,PG-13,Behind the Scenes,Foreign,9.0,1.0,2.0,0.0
+440,HUNGER ROOF,6,0.99,105,21.99,G,"Deleted Scenes,Behind the Scenes",Foreign,13.0,2.0,4.0,1.0
+452,ILLUSION AMELIE,4,0.99,122,15.99,R,"Commentaries,Behind the Scenes",Foreign,15.0,1.0,4.0,0.0
+455,IMPOSSIBLE PREJUDICE,7,4.99,103,11.99,NC-17,Deleted Scenes,Foreign,14.0,1.0,4.0,0.0
+459,INFORMER DOUBLE,4,4.99,74,23.99,NC-17,"Trailers,Commentaries",Foreign,5.0,1.0,2.0,0.0
+460,INNOCENT USUAL,3,4.99,178,26.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Foreign,26.0,2.0,8.0,0.0
+467,INTRIGUE WORST,6,0.99,181,10.99,G,Deleted Scenes,Foreign,20.0,2.0,7.0,1.0
+486,JET NEIGHBORS,7,4.99,59,14.99,R,"Trailers,Commentaries,Behind the Scenes",Foreign,20.0,2.0,6.0,0.0
+493,KANE EXORCIST,5,0.99,92,18.99,R,"Trailers,Commentaries",Foreign,14.0,1.0,3.0,0.0
+500,KISS GLORY,5,4.99,163,11.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Foreign,22.0,2.0,8.0,0.0
+531,LOSE INCH,3,0.99,137,18.99,R,"Trailers,Commentaries",Foreign,27.0,2.0,8.0,0.0
+533,LOST BIRD,4,2.99,98,21.99,PG-13,Deleted Scenes,Foreign,12.0,1.0,3.0,0.0
+545,MADNESS ATTACKS,4,0.99,178,14.99,PG-13,Trailers,Foreign,25.0,2.0,6.0,0.0
+565,MATRIX SNOWMAN,6,4.99,56,9.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Foreign,9.0,1.0,2.0,0.0
+566,MAUDE MOD,6,0.99,72,20.99,R,"Trailers,Behind the Scenes",Foreign,8.0,1.0,2.0,0.0
+567,MEET CHOCOLATE,3,2.99,80,26.99,G,Trailers,Foreign,12.0,2.0,4.0,0.0
+584,MIXED DOORS,6,2.99,180,26.99,PG-13,Behind the Scenes,Foreign,4.0,1.0,2.0,0.0
+595,MOON BUNCH,7,0.99,83,20.99,PG,"Deleted Scenes,Behind the Scenes",Foreign,29.0,2.0,8.0,0.0
+605,MULHOLLAND BEAST,7,2.99,157,13.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Foreign,7.0,1.0,2.0,1.0
+607,MUPPET MILE,5,4.99,50,18.99,PG,"Trailers,Deleted Scenes",Foreign,,,,
+623,NEWTON LABYRINTH,4,0.99,75,9.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Foreign,17.0,2.0,5.0,0.0
+640,OPUS ICE,5,4.99,102,21.99,R,"Commentaries,Deleted Scenes",Foreign,11.0,1.0,3.0,0.0
+641,ORANGE GRAPES,4,0.99,76,21.99,PG-13,"Trailers,Commentaries",Foreign,24.0,2.0,7.0,0.0
+661,PAST SUICIDES,5,4.99,157,17.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Foreign,13.0,1.0,4.0,0.0
+669,PEARL DESTINY,3,2.99,74,10.99,NC-17,Trailers,Foreign,,,,
+674,PET HAUNTING,3,0.99,99,11.99,PG,"Trailers,Commentaries",Foreign,8.0,1.0,3.0,0.0
+689,POLLOCK DELIVERANCE,5,2.99,137,14.99,PG,Commentaries,Foreign,18.0,2.0,6.0,1.0
+705,PURPLE MOVIE,4,2.99,88,9.99,R,"Commentaries,Deleted Scenes",Foreign,13.0,1.0,4.0,0.0
+726,RESERVOIR ADAPTATION,7,2.99,61,29.99,PG-13,Commentaries,Foreign,10.0,1.0,3.0,0.0
+738,ROCKETEER MOTHER,3,0.99,178,27.99,PG-13,"Deleted Scenes,Behind the Scenes",Foreign,33.0,2.0,8.0,0.0
+769,SCHOOL JACKET,5,4.99,151,21.99,PG-13,Trailers,Foreign,6.0,1.0,2.0,0.0
+770,SCISSORHANDS SLUMS,5,2.99,147,13.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Foreign,15.0,1.0,3.0,0.0
+789,SHOCK CABIN,7,2.99,79,15.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Foreign,30.0,2.0,8.0,1.0
+792,SHREK LICENSE,7,2.99,154,15.99,PG-13,Commentaries,Foreign,15.0,1.0,3.0,1.0
+821,SORORITY QUEEN,6,0.99,184,17.99,NC-17,"Trailers,Deleted Scenes",Foreign,12.0,1.0,4.0,0.0
+845,STEPMOM DREAM,7,4.99,48,9.99,NC-17,"Deleted Scenes,Behind the Scenes",Foreign,20.0,2.0,7.0,0.0
+900,TOWN ARK,6,2.99,136,17.99,R,Behind the Scenes,Foreign,14.0,2.0,4.0,0.0
+908,TRAP GUYS,3,4.99,110,11.99,G,"Commentaries,Behind the Scenes",Foreign,16.0,2.0,4.0,0.0
+929,USUAL UNTOUCHABLES,5,4.99,128,21.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Foreign,13.0,1.0,4.0,0.0
+947,VISION TORQUE,5,0.99,59,16.99,PG-13,"Commentaries,Deleted Scenes",Foreign,7.0,1.0,2.0,0.0
+957,WAR NOTTING,7,4.99,80,26.99,G,"Deleted Scenes,Behind the Scenes",Foreign,12.0,2.0,5.0,0.0
+961,WASH HEAVENLY,7,4.99,161,22.99,R,Commentaries,Foreign,23.0,2.0,5.0,0.0
+971,WHALE BIKINI,4,4.99,109,11.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Foreign,18.0,1.0,4.0,0.0
+984,WONDERFUL DROP,3,2.99,126,20.99,NC-17,Commentaries,Foreign,9.0,1.0,2.0,0.0
+46,AUTUMN CROW,3,4.99,108,13.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Games,11.0,1.0,3.0,0.0
+106,BULWORTH COMMANDMENTS,4,2.99,61,14.99,G,Trailers,Games,7.0,1.0,2.0,0.0
+117,CANDLES GRAPES,6,4.99,135,15.99,NC-17,"Trailers,Deleted Scenes",Games,23.0,2.0,6.0,0.0
+141,CHICAGO NORTH,6,4.99,185,11.99,PG-13,"Deleted Scenes,Behind the Scenes",Games,16.0,2.0,5.0,0.0
+189,CREATURES SHAKESPEARE,3,0.99,139,23.99,NC-17,"Trailers,Deleted Scenes",Games,16.0,2.0,6.0,1.0
+200,CURTAIN VIDEOTAPE,7,0.99,133,27.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Games,27.0,2.0,8.0,1.0
+211,DARLING BREAKING,7,4.99,165,20.99,PG-13,"Commentaries,Behind the Scenes",Games,9.0,1.0,2.0,0.0
+215,DAWN POND,4,4.99,57,27.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Games,18.0,2.0,6.0,0.0
+217,DAZED PUNK,6,4.99,120,20.99,G,"Commentaries,Deleted Scenes",Games,,,,
+227,DETAILS PACKER,4,4.99,88,17.99,R,"Commentaries,Deleted Scenes",Games,19.0,2.0,5.0,1.0
+232,DIRTY ACE,7,2.99,147,29.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Games,15.0,2.0,5.0,0.0
+236,DIVINE RESURRECTION,4,2.99,100,19.99,R,"Trailers,Commentaries",Games,15.0,1.0,4.0,1.0
+264,DWARFS ALTER,6,2.99,101,13.99,G,"Commentaries,Deleted Scenes",Games,9.0,1.0,2.0,1.0
+281,ENCINO ELF,6,0.99,143,9.99,G,"Trailers,Behind the Scenes",Games,19.0,2.0,6.0,1.0
+302,FANTASIA PARK,5,2.99,131,29.99,G,Commentaries,Games,19.0,2.0,6.0,0.0
+306,FEATHERS METAL,3,0.99,104,12.99,PG-13,"Trailers,Deleted Scenes",Games,11.0,1.0,3.0,0.0
+310,FEVER EMPIRE,5,4.99,158,20.99,R,"Commentaries,Deleted Scenes",Games,5.0,1.0,2.0,0.0
+316,FIRE WOLVES,5,4.99,173,18.99,R,Trailers,Games,7.0,1.0,2.0,0.0
+331,FORWARD TEMPLE,6,2.99,90,25.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Games,32.0,2.0,8.0,0.0
+352,GATHERING CALENDAR,4,0.99,176,22.99,PG-13,"Commentaries,Behind the Scenes",Games,11.0,1.0,4.0,0.0
+362,GLORY TRACY,7,2.99,115,13.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Games,5.0,1.0,2.0,0.0
+381,GRINCH MASSAGE,7,4.99,150,25.99,R,Trailers,Games,14.0,2.0,5.0,0.0
+382,GRIT CLOCKWORK,3,0.99,137,21.99,PG,"Trailers,Deleted Scenes",Games,32.0,2.0,8.0,0.0
+387,GUN BONNIE,7,0.99,100,27.99,G,Behind the Scenes,Games,25.0,2.0,6.0,0.0
+406,HAUNTING PIANIST,5,0.99,181,22.99,R,Behind the Scenes,Games,22.0,2.0,6.0,0.0
+408,HEAD STRANGER,4,4.99,69,28.99,R,"Trailers,Commentaries",Games,22.0,2.0,7.0,0.0
+438,HUMAN GRAFFITI,3,2.99,68,22.99,NC-17,"Trailers,Behind the Scenes",Games,15.0,2.0,5.0,0.0
+447,ICE CROSSING,5,2.99,131,28.99,R,Deleted Scenes,Games,24.0,2.0,7.0,0.0
+483,JERICHO MULAN,3,2.99,171,29.99,NC-17,Commentaries,Games,17.0,2.0,5.0,0.0
+507,LADYBUGS ARMAGEDDON,4,0.99,113,13.99,NC-17,Deleted Scenes,Games,6.0,1.0,2.0,0.0
+508,LAMBS CINCINATTI,6,4.99,144,18.99,PG-13,"Trailers,Behind the Scenes",Games,10.0,1.0,3.0,0.0
+546,MADRE GABLES,7,2.99,98,27.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Games,14.0,1.0,4.0,0.0
+556,MALTESE HOPE,6,4.99,127,26.99,PG-13,Behind the Scenes,Games,22.0,2.0,7.0,0.0
+560,MARS ROMAN,6,0.99,62,21.99,NC-17,"Commentaries,Deleted Scenes",Games,19.0,2.0,5.0,0.0
+563,MASSACRE USUAL,6,4.99,165,16.99,R,Commentaries,Games,30.0,2.0,7.0,0.0
+591,MONSOON CAUSE,6,4.99,182,20.99,PG,"Commentaries,Behind the Scenes",Games,9.0,1.0,3.0,0.0
+596,MOONSHINE CABIN,4,4.99,171,25.99,PG-13,Behind the Scenes,Games,21.0,2.0,6.0,0.0
+597,MOONWALKER FOOL,5,4.99,184,12.99,G,"Trailers,Deleted Scenes",Games,13.0,1.0,4.0,1.0
+614,NAME DETECTIVE,5,4.99,178,11.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Games,23.0,2.0,6.0,1.0
+624,NIGHTMARE CHILL,3,4.99,149,25.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Games,25.0,2.0,7.0,0.0
+646,OUTBREAK DIVINE,6,0.99,169,12.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",Games,23.0,2.0,5.0,0.0
+654,PANKY SUBMARINE,4,4.99,93,19.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Games,15.0,2.0,4.0,0.0
+684,PIZZA JUMANJI,4,2.99,173,11.99,NC-17,Commentaries,Games,7.0,1.0,2.0,0.0
+699,PRIVATE DROP,7,4.99,106,26.99,PG,Trailers,Games,5.0,1.0,2.0,0.0
+701,PSYCHO SHRUNK,5,2.99,155,11.99,PG-13,Behind the Scenes,Games,,,,
+742,ROOF CHAMPION,7,0.99,101,25.99,R,"Deleted Scenes,Behind the Scenes",Games,,,,
+746,ROUGE SQUAD,3,0.99,118,10.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Games,18.0,2.0,5.0,0.0
+747,ROXANNE REBEL,5,0.99,171,9.99,R,"Deleted Scenes,Behind the Scenes",Games,19.0,2.0,5.0,0.0
+762,SASSY PACKER,6,0.99,154,29.99,G,"Deleted Scenes,Behind the Scenes",Games,13.0,1.0,4.0,0.0
+781,SEVEN SWARM,4,4.99,127,15.99,R,Deleted Scenes,Games,5.0,1.0,2.0,0.0
+807,SLEUTH ORIENT,4,0.99,87,25.99,NC-17,"Deleted Scenes,Behind the Scenes",Games,21.0,2.0,5.0,0.0
+835,SPY MILE,6,2.99,112,13.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Games,27.0,2.0,8.0,0.0
+840,STAMPEDE DISTURBING,5,0.99,75,26.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Games,14.0,1.0,4.0,0.0
+842,STATE WASTELAND,4,2.99,113,13.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Games,13.0,2.0,4.0,1.0
+861,SUIT WALLS,3,4.99,111,12.99,R,Commentaries,Games,21.0,2.0,6.0,1.0
+919,TYCOON GATHERING,3,4.99,82,17.99,G,"Trailers,Commentaries,Deleted Scenes",Games,12.0,1.0,4.0,0.0
+934,VANILLA DAY,7,4.99,122,20.99,NC-17,"Deleted Scenes,Behind the Scenes",Games,9.0,1.0,3.0,0.0
+941,VIDEOTAPE ARSENIC,4,4.99,145,10.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Games,29.0,2.0,7.0,0.0
+949,VOLCANO TEXAS,6,0.99,157,27.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Games,22.0,2.0,6.0,1.0
+956,WANDA CHAMBER,7,4.99,107,23.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Games,16.0,1.0,4.0,1.0
+976,WIND PHANTOM,6,0.99,111,12.99,R,"Commentaries,Deleted Scenes",Games,23.0,2.0,6.0,0.0
+2,ACE GOLDFINGER,3,4.99,48,12.99,G,"Trailers,Deleted Scenes",Horror,7.0,1.0,3.0,1.0
+4,AFFAIR PREJUDICE,5,2.99,117,26.99,G,"Commentaries,Behind the Scenes",Horror,23.0,2.0,7.0,1.0
+8,AIRPORT POLLOCK,6,4.99,54,15.99,R,Trailers,Horror,18.0,1.0,4.0,0.0
+9,ALABAMA DEVIL,3,2.99,114,21.99,PG-13,"Trailers,Deleted Scenes",Horror,12.0,2.0,5.0,0.0
+13,ALI FOREVER,4,4.99,150,21.99,PG,"Deleted Scenes,Behind the Scenes",Horror,9.0,1.0,4.0,1.0
+24,ANALYZE HOOSIERS,6,2.99,181,19.99,R,"Trailers,Behind the Scenes",Horror,14.0,1.0,4.0,0.0
+30,ANYTHING SAVANNAH,4,2.99,82,27.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Horror,9.0,1.0,2.0,0.0
+34,ARABIA DOGMA,6,0.99,62,29.99,NC-17,"Commentaries,Deleted Scenes",Horror,13.0,1.0,4.0,0.0
+35,ARACHNOPHOBIA ROLLERCOASTER,4,2.99,147,24.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Horror,24.0,2.0,7.0,0.0
+65,BEHAVIOR RUNAWAY,3,4.99,100,20.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Horror,13.0,1.0,4.0,0.0
+92,BOWFINGER GABLES,7,4.99,72,19.99,NC-17,"Trailers,Deleted Scenes",Horror,11.0,2.0,4.0,0.0
+122,CARRIE BUNCH,7,0.99,114,11.99,PG,"Trailers,Commentaries,Behind the Scenes",Horror,23.0,2.0,7.0,0.0
+171,COMMANDMENTS EXPRESS,6,4.99,59,13.99,R,"Trailers,Commentaries,Deleted Scenes",Horror,,,,
+222,DESERT POSEIDON,4,4.99,64,27.99,R,"Trailers,Behind the Scenes",Horror,19.0,2.0,6.0,0.0
+258,DRUMS DYNAMITE,6,0.99,96,11.99,PG,Trailers,Horror,13.0,1.0,4.0,0.0
+275,EGYPT TENENBAUMS,3,0.99,85,11.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Horror,17.0,2.0,5.0,0.0
+277,ELEPHANT TROJAN,4,4.99,126,24.99,PG-13,Behind the Scenes,Horror,14.0,1.0,3.0,0.0
+301,FAMILY SWEET,4,0.99,155,24.99,R,Trailers,Horror,29.0,2.0,8.0,1.0
+313,FIDELITY DEVIL,5,4.99,118,11.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Horror,21.0,2.0,6.0,0.0
+334,FREDDY STORM,6,4.99,65,21.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Horror,23.0,2.0,6.0,0.0
+351,GASLIGHT CRUSADE,4,2.99,106,10.99,PG,"Trailers,Deleted Scenes",Horror,16.0,2.0,6.0,0.0
+415,HIGH ENCINO,3,2.99,84,23.99,R,"Trailers,Commentaries,Behind the Scenes",Horror,22.0,2.0,6.0,0.0
+475,JAPANESE RUN,6,0.99,135,29.99,G,Deleted Scenes,Horror,6.0,1.0,2.0,0.0
+494,KARATE MOON,4,0.99,120,21.99,PG-13,Behind the Scenes,Horror,23.0,2.0,6.0,0.0
+495,KENTUCKIAN GIANT,5,2.99,169,10.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Horror,,,,
+506,LADY STAGE,4,4.99,67,14.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Horror,17.0,2.0,6.0,1.0
+527,LOLA AGENT,4,4.99,85,24.99,PG,"Trailers,Commentaries",Horror,24.0,2.0,6.0,0.0
+535,LOVE SUICIDES,6,0.99,181,21.99,R,"Trailers,Behind the Scenes",Horror,20.0,1.0,4.0,0.0
+593,MONTEREY LABYRINTH,6,0.99,158,13.99,G,"Trailers,Commentaries",Horror,13.0,1.0,4.0,0.0
+600,MOTIONS DETAILS,5,0.99,166,16.99,PG,"Trailers,Commentaries,Behind the Scenes",Horror,16.0,2.0,4.0,1.0
+653,PANIC CLUB,3,4.99,102,15.99,G,"Commentaries,Deleted Scenes",Horror,7.0,1.0,2.0,0.0
+658,PARIS WEEKEND,7,2.99,121,19.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Horror,14.0,1.0,4.0,0.0
+665,PATTON INTERVIEW,4,2.99,175,22.99,PG,Commentaries,Horror,23.0,2.0,7.0,0.0
+702,PULP BEVERLY,4,2.99,89,12.99,G,"Trailers,Behind the Scenes",Horror,30.0,2.0,8.0,1.0
+716,REAP UNFAITHFUL,6,2.99,136,26.99,PG-13,"Trailers,Commentaries",Horror,16.0,2.0,5.0,0.0
+722,REEF SALUTE,5,0.99,123,26.99,NC-17,Behind the Scenes,Horror,11.0,2.0,4.0,0.0
+737,ROCK INSTINCT,4,0.99,102,28.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Horror,17.0,2.0,6.0,0.0
+740,ROLLERCOASTER BRINGING,5,2.99,153,13.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Horror,10.0,1.0,3.0,0.0
+749,RULES HUMAN,6,4.99,153,19.99,R,"Deleted Scenes,Behind the Scenes",Horror,16.0,2.0,4.0,0.0
+799,SIMON NORTH,3,0.99,51,26.99,NC-17,"Trailers,Commentaries",Horror,6.0,1.0,2.0,0.0
+800,SINNERS ATLANTIS,7,2.99,126,19.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Horror,22.0,2.0,6.0,0.0
+804,SLEEPING SUSPECTS,7,4.99,129,13.99,PG-13,"Trailers,Commentaries",Horror,24.0,2.0,7.0,1.0
+830,SPIRIT FLINTSTONES,7,0.99,149,23.99,R,"Commentaries,Deleted Scenes",Horror,15.0,1.0,4.0,0.0
+854,STRANGERS GRAFFITI,4,4.99,119,22.99,R,"Trailers,Behind the Scenes",Horror,17.0,1.0,4.0,0.0
+856,STREETCAR INTENTIONS,5,4.99,73,11.99,R,Commentaries,Horror,25.0,2.0,8.0,0.0
+870,SWARM GOLD,4,0.99,123,12.99,PG-13,"Trailers,Commentaries",Horror,27.0,2.0,8.0,1.0
+876,TARZAN VIDEOTAPE,3,2.99,91,11.99,PG-13,Trailers,Horror,8.0,1.0,2.0,0.0
+881,TEMPLE ATTRACTION,5,4.99,71,13.99,PG,"Commentaries,Deleted Scenes",Horror,12.0,1.0,4.0,0.0
+885,TEXAS WATCH,7,0.99,179,22.99,NC-17,Trailers,Horror,6.0,1.0,2.0,0.0
+904,TRAIN BUNCH,3,4.99,71,26.99,R,"Trailers,Deleted Scenes",Horror,4.0,1.0,2.0,0.0
+909,TREASURE COMMAND,3,0.99,102,28.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Horror,,,,
+922,UNDEFEATED DALMATIONS,7,4.99,107,22.99,PG-13,Commentaries,Horror,21.0,2.0,7.0,0.0
+965,WATERSHIP FRONTIER,6,0.99,112,28.99,G,Commentaries,Horror,6.0,1.0,2.0,0.0
+990,WORLD LEATHERNECKS,3,0.99,171,13.99,PG-13,"Trailers,Behind the Scenes",Horror,8.0,1.0,2.0,1.0
+995,YENTL IDAHO,5,4.99,86,11.99,R,"Trailers,Commentaries,Deleted Scenes",Horror,23.0,2.0,6.0,0.0
+998,ZHIVAGO CORE,6,0.99,105,10.99,NC-17,Deleted Scenes,Horror,9.0,1.0,2.0,1.0
+12,ALASKA PHANTOM,6,0.99,136,22.99,PG,"Commentaries,Deleted Scenes",Music,26.0,2.0,7.0,0.0
+17,ALONE TRIP,3,0.99,82,14.99,R,"Trailers,Behind the Scenes",Music,18.0,2.0,6.0,1.0
+20,AMELIE HELLFIGHTERS,4,4.99,79,23.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Music,10.0,1.0,3.0,0.0
+51,BALLOON HOMEWARD,5,2.99,75,10.99,NC-17,Deleted Scenes,Music,23.0,2.0,6.0,0.0
+54,BANGER PINOCCHIO,5,0.99,113,15.99,R,"Trailers,Commentaries,Deleted Scenes",Music,22.0,2.0,5.0,0.0
+74,BIRCH ANTITRUST,4,4.99,162,18.99,PG,"Trailers,Commentaries,Deleted Scenes",Music,11.0,2.0,5.0,0.0
+76,BIRDCAGE CASPER,4,0.99,103,23.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Music,9.0,1.0,3.0,0.0
+86,BOOGIE AMELIE,6,4.99,121,11.99,R,"Commentaries,Behind the Scenes",Music,29.0,2.0,8.0,1.0
+133,CHAMBER ITALIAN,7,4.99,117,14.99,NC-17,Trailers,Music,13.0,2.0,4.0,1.0
+158,CLONES PINOCCHIO,6,2.99,124,16.99,R,Behind the Scenes,Music,19.0,2.0,5.0,0.0
+161,CLUE GRAIL,6,4.99,70,27.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Music,7.0,1.0,2.0,0.0
+174,CONFIDENTIAL INTERVIEW,6,4.99,180,13.99,NC-17,Commentaries,Music,29.0,2.0,8.0,0.0
+220,DEER VIRGINIAN,7,2.99,106,13.99,NC-17,Deleted Scenes,Music,29.0,2.0,8.0,1.0
+244,DORADO NOTTING,5,4.99,139,26.99,NC-17,Commentaries,Music,27.0,2.0,7.0,0.0
+255,DRIVING POLISH,6,4.99,175,21.99,NC-17,"Trailers,Deleted Scenes",Music,21.0,2.0,6.0,0.0
+278,ELF MURDER,4,4.99,155,19.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Music,7.0,1.0,2.0,0.0
+284,ENEMY ODDS,5,4.99,77,23.99,NC-17,Trailers,Music,29.0,2.0,7.0,0.0
+333,FREAKY POCUS,7,2.99,126,16.99,R,"Trailers,Behind the Scenes",Music,17.0,2.0,4.0,0.0
+363,GO PURPLE,3,0.99,54,12.99,R,Trailers,Music,20.0,2.0,6.0,0.0
+378,GREATEST NORTH,5,2.99,93,24.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Music,29.0,2.0,8.0,0.0
+384,GROSSE WONDERFUL,5,4.99,49,19.99,R,Behind the Scenes,Music,8.0,1.0,3.0,0.0
+398,HANOVER GALAXY,5,4.99,47,21.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Music,17.0,1.0,4.0,0.0
+411,HEAVENLY GUN,5,4.99,49,13.99,NC-17,Behind the Scenes,Music,7.0,1.0,2.0,0.0
+426,HOME PITY,7,4.99,185,15.99,R,"Trailers,Commentaries,Behind the Scenes",Music,14.0,1.0,3.0,0.0
+454,IMPACT ALADDIN,6,0.99,180,20.99,PG-13,"Trailers,Deleted Scenes",Music,9.0,1.0,2.0,0.0
+462,INSIDER ARIZONA,5,2.99,78,17.99,NC-17,Commentaries,Music,20.0,2.0,5.0,1.0
+477,JAWBREAKER BROOKLYN,5,0.99,118,15.99,PG,"Trailers,Behind the Scenes",Music,10.0,1.0,3.0,0.0
+516,LEGEND JEDI,7,0.99,59,18.99,PG,"Commentaries,Deleted Scenes",Music,9.0,1.0,3.0,0.0
+540,LUCKY FLYING,7,2.99,97,10.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Music,13.0,1.0,3.0,0.0
+562,MASKED BUBBLE,6,0.99,151,12.99,PG-13,"Commentaries,Behind the Scenes",Music,20.0,2.0,6.0,0.0
+581,MINORITY KISS,4,0.99,59,16.99,G,Trailers,Music,12.0,1.0,3.0,1.0
+592,MONSTER SPARTACUS,6,2.99,107,28.99,PG,"Commentaries,Behind the Scenes",Music,15.0,2.0,4.0,1.0
+636,OLEANDER CLUE,5,0.99,161,12.99,PG,"Commentaries,Deleted Scenes",Music,10.0,1.0,3.0,0.0
+647,OUTFIELD MASSACRE,4,0.99,129,18.99,NC-17,"Trailers,Deleted Scenes",Music,20.0,2.0,6.0,1.0
+673,PERSONAL LADYBUGS,3,0.99,118,19.99,PG-13,"Deleted Scenes,Behind the Scenes",Music,14.0,2.0,4.0,0.0
+718,REBEL AIRPORT,7,0.99,73,24.99,G,"Trailers,Behind the Scenes",Music,8.0,1.0,2.0,0.0
+721,REDS POCUS,7,4.99,182,23.99,PG-13,"Trailers,Behind the Scenes",Music,9.0,1.0,2.0,0.0
+741,ROMAN PUNK,7,0.99,81,28.99,NC-17,Trailers,Music,24.0,2.0,6.0,0.0
+752,RUNNER MADIGAN,6,0.99,101,27.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Music,8.0,1.0,3.0,0.0
+767,SCALAWAG DUCK,6,4.99,183,13.99,NC-17,"Commentaries,Behind the Scenes",Music,32.0,2.0,8.0,0.0
+797,SILENCE KANE,7,0.99,67,23.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Music,16.0,2.0,5.0,0.0
+819,SONG HEDWIG,3,0.99,165,29.99,PG-13,"Trailers,Deleted Scenes",Music,11.0,1.0,3.0,1.0
+877,TAXI KICK,4,0.99,64,23.99,PG-13,"Commentaries,Deleted Scenes",Music,17.0,2.0,5.0,0.0
+879,TELEGRAPH VOYAGE,3,4.99,148,20.99,PG,Commentaries,Music,27.0,2.0,7.0,0.0
+884,TERMINATOR CLUB,5,4.99,88,11.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Music,6.0,1.0,3.0,0.0
+921,UNCUT SUICIDES,7,2.99,172,29.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Music,14.0,2.0,4.0,0.0
+936,VANISHING ROCKY,3,2.99,123,21.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Music,18.0,2.0,6.0,1.0
+980,WIZARD COLDBLOODED,4,4.99,75,12.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Music,16.0,2.0,5.0,0.0
+983,WON DARES,7,2.99,105,18.99,PG,Behind the Scenes,Music,9.0,1.0,3.0,0.0
+987,WORDS HUNTER,3,2.99,116,13.99,PG,"Trailers,Commentaries,Deleted Scenes",Music,16.0,2.0,4.0,0.0
+997,YOUTH KICK,4,0.99,179,14.99,NC-17,"Trailers,Behind the Scenes",Music,6.0,1.0,2.0,0.0
+22,AMISTAD MIDSUMMER,6,2.99,85,10.99,G,"Commentaries,Behind the Scenes",New,21.0,2.0,7.0,1.0
+25,ANGELS LIFE,3,2.99,74,15.99,G,Trailers,New,22.0,2.0,6.0,0.0
+32,APOCALYPSE FLAMINGOS,6,4.99,119,11.99,R,"Trailers,Commentaries",New,6.0,1.0,2.0,0.0
+45,ATTRACTION NEWTON,5,4.99,83,14.99,PG-13,"Trailers,Behind the Scenes",New,24.0,2.0,6.0,0.0
+77,BIRDS PERDITION,5,4.99,61,15.99,G,"Trailers,Behind the Scenes",New,18.0,2.0,6.0,0.0
+90,BOULEVARD MOB,3,0.99,63,11.99,R,Trailers,New,18.0,2.0,6.0,1.0
+93,BRANNIGAN SUNRISE,4,4.99,121,27.99,PG,Trailers,New,12.0,1.0,3.0,0.0
+95,BREAKFAST GOLDFINGER,5,4.99,123,18.99,G,"Trailers,Commentaries,Deleted Scenes",New,17.0,2.0,5.0,0.0
+96,BREAKING HOME,4,2.99,169,21.99,PG-13,"Trailers,Commentaries",New,13.0,1.0,3.0,0.0
+108,BUTCH PANTHER,6,0.99,67,19.99,PG-13,"Trailers,Commentaries,Deleted Scenes",New,,,,
+109,BUTTERFLY CHOCOLAT,3,0.99,89,17.99,G,Behind the Scenes,New,30.0,2.0,8.0,0.0
+136,CHAPLIN LICENSE,7,2.99,146,26.99,NC-17,Behind the Scenes,New,8.0,1.0,3.0,0.0
+144,CHINATOWN GLADIATOR,7,4.99,61,24.99,PG,"Trailers,Commentaries,Deleted Scenes",New,,,,
+155,CLEOPATRA DEVIL,6,0.99,150,26.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",New,18.0,2.0,5.0,1.0
+163,CLYDE THEORY,4,0.99,139,29.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",New,8.0,1.0,3.0,0.0
+216,DAY UNFAITHFUL,3,4.99,113,16.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",New,14.0,2.0,5.0,1.0
+226,DESTINY SATURDAY,4,4.99,56,20.99,G,"Trailers,Commentaries,Behind the Scenes",New,16.0,2.0,5.0,0.0
+251,DRAGONFLY STRANGERS,6,4.99,133,19.99,NC-17,"Trailers,Behind the Scenes",New,18.0,2.0,5.0,1.0
+267,EAGLES PANKY,4,4.99,140,14.99,NC-17,"Trailers,Commentaries,Behind the Scenes",New,22.0,2.0,6.0,1.0
+270,EARTH VISION,7,0.99,85,29.99,NC-17,"Trailers,Commentaries,Deleted Scenes",New,23.0,2.0,7.0,1.0
+283,ENDING CROWDS,6,0.99,85,10.99,NC-17,"Commentaries,Behind the Scenes",New,11.0,1.0,3.0,0.0
+289,EVE RESURRECTION,5,4.99,66,25.99,G,"Trailers,Commentaries,Deleted Scenes",New,7.0,1.0,2.0,0.0
+305,FATAL HAUNTED,6,2.99,91,24.99,PG,"Trailers,Behind the Scenes",New,28.0,2.0,7.0,0.0
+320,FLAMINGOS CONNECTICUT,4,4.99,80,28.99,PG-13,Trailers,New,23.0,2.0,7.0,0.0
+321,FLASH WARS,3,4.99,123,21.99,NC-17,"Trailers,Commentaries,Behind the Scenes",New,13.0,1.0,4.0,0.0
+340,FRONTIER CABIN,6,4.99,183,14.99,PG-13,"Commentaries,Deleted Scenes",New,6.0,1.0,2.0,0.0
+364,GODFATHER DIARY,3,2.99,73,14.99,NC-17,Trailers,New,8.0,1.0,3.0,0.0
+436,HOURS RAGE,4,0.99,122,14.99,NC-17,"Trailers,Deleted Scenes",New,19.0,2.0,6.0,0.0
+448,IDAHO LOVE,3,2.99,172,25.99,PG-13,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",New,17.0,2.0,5.0,0.0
+465,INTERVIEW LIAISONS,4,4.99,59,17.99,R,"Commentaries,Behind the Scenes",New,20.0,2.0,5.0,0.0
+481,JEKYLL FROGMEN,4,2.99,58,22.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",New,17.0,2.0,6.0,0.0
+490,JUMANJI BLADE,4,2.99,121,13.99,G,"Commentaries,Behind the Scenes",New,8.0,1.0,2.0,0.0
+492,JUNGLE CLOSER,6,0.99,134,11.99,NC-17,"Trailers,Commentaries,Deleted Scenes",New,9.0,1.0,2.0,0.0
+538,LOVERBOY ATTACKS,7,0.99,162,19.99,PG-13,"Trailers,Behind the Scenes",New,12.0,1.0,3.0,0.0
+551,MAIDEN HOME,3,4.99,138,9.99,PG,Behind the Scenes,New,24.0,2.0,6.0,0.0
+558,MANNEQUIN WORST,3,2.99,71,18.99,PG-13,"Trailers,Commentaries,Deleted Scenes",New,5.0,1.0,2.0,0.0
+561,MASK PEACH,6,2.99,123,26.99,NC-17,"Commentaries,Deleted Scenes",New,17.0,1.0,4.0,0.0
+580,MINE TITANS,3,4.99,166,12.99,PG-13,"Trailers,Deleted Scenes",New,19.0,2.0,6.0,0.0
+590,MONEY HAROLD,3,2.99,135,17.99,PG,"Trailers,Commentaries",New,20.0,2.0,7.0,0.0
+632,NUTS TIES,5,4.99,145,10.99,NC-17,"Trailers,Behind the Scenes",New,9.0,1.0,3.0,0.0
+635,OKLAHOMA JUMANJI,7,0.99,58,15.99,PG,Behind the Scenes,New,6.0,1.0,2.0,0.0
+675,PHANTOM GLORY,6,2.99,60,17.99,NC-17,"Commentaries,Behind the Scenes",New,6.0,1.0,2.0,0.0
+677,PIANIST OUTFIELD,6,0.99,136,25.99,NC-17,"Trailers,Commentaries,Deleted Scenes",New,21.0,2.0,7.0,1.0
+685,PLATOON INSTINCT,6,4.99,132,10.99,PG-13,"Trailers,Commentaries",New,9.0,1.0,2.0,0.0
+686,PLUTO OLEANDER,5,4.99,84,9.99,R,Behind the Scenes,New,16.0,1.0,4.0,0.0
+720,REDEMPTION COMFORTS,3,2.99,179,20.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",New,20.0,2.0,7.0,0.0
+730,RIDGEMONT SUBMARINE,3,0.99,46,28.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",New,32.0,2.0,8.0,1.0
+750,RUN PACIFIC,3,0.99,145,25.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",New,10.0,1.0,3.0,0.0
+751,RUNAWAY TENENBAUMS,6,0.99,181,17.99,NC-17,Commentaries,New,8.0,1.0,2.0,0.0
+759,SALUTE APOLLO,4,2.99,73,29.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",New,23.0,2.0,6.0,0.0
+760,SAMURAI LION,5,2.99,110,21.99,G,Commentaries,New,25.0,2.0,7.0,0.0
+806,SLEEPY JAPANESE,4,2.99,137,25.99,PG,"Trailers,Commentaries,Deleted Scenes",New,21.0,2.0,5.0,1.0
+846,STING PERSONAL,3,4.99,93,9.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",New,21.0,2.0,8.0,0.0
+847,STOCK GLASS,7,2.99,160,10.99,PG,Commentaries,New,14.0,1.0,4.0,0.0
+913,TROOPERS METAL,3,0.99,115,20.99,R,"Deleted Scenes,Behind the Scenes",New,14.0,2.0,6.0,0.0
+920,UNBREAKABLE KARATE,3,0.99,62,16.99,G,"Deleted Scenes,Behind the Scenes",New,21.0,2.0,5.0,0.0
+933,VAMPIRE WHALE,4,4.99,126,11.99,NC-17,"Trailers,Commentaries",New,12.0,1.0,3.0,0.0
+935,VANISHED GARDEN,5,0.99,142,17.99,R,"Trailers,Commentaries,Deleted Scenes",New,7.0,1.0,2.0,1.0
+937,VARSITY TRIP,7,2.99,85,14.99,NC-17,"Commentaries,Deleted Scenes",New,16.0,2.0,5.0,1.0
+948,VOICE PEACH,6,0.99,139,22.99,PG-13,"Commentaries,Behind the Scenes",New,19.0,2.0,6.0,0.0
+954,WAKE JAWS,7,4.99,73,18.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",New,,,,
+974,WILD APOLLO,4,0.99,181,24.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",New,6.0,1.0,2.0,1.0
+994,WYOMING STORM,6,4.99,100,29.99,PG-13,Deleted Scenes,New,13.0,1.0,3.0,0.0
+26,ANNIE IDENTITY,3,0.99,86,15.99,G,"Commentaries,Deleted Scenes",Sci-Fi,22.0,2.0,5.0,0.0
+39,ARMAGEDDON LOST,5,0.99,99,10.99,G,Trailers,Sci-Fi,21.0,2.0,7.0,1.0
+44,ATTACKS HATE,5,4.99,113,21.99,PG-13,"Trailers,Behind the Scenes",Sci-Fi,16.0,2.0,5.0,0.0
+49,BADMAN DAWN,6,2.99,162,22.99,R,"Trailers,Commentaries,Behind the Scenes",Sci-Fi,21.0,2.0,6.0,0.0
+55,BARBARELLA STREETCAR,6,2.99,65,27.99,G,Behind the Scenes,Sci-Fi,25.0,2.0,6.0,0.0
+69,BEVERLY OUTLAW,3,2.99,85,21.99,R,Trailers,Sci-Fi,21.0,2.0,8.0,0.0
+73,BINGO TALENTED,5,2.99,150,22.99,PG-13,"Trailers,Commentaries",Sci-Fi,29.0,2.0,8.0,0.0
+81,BLINDNESS GUN,6,4.99,103,29.99,PG-13,"Trailers,Behind the Scenes",Sci-Fi,14.0,1.0,4.0,0.0
+114,CAMELOT VACATION,3,0.99,61,26.99,NC-17,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sci-Fi,27.0,2.0,7.0,1.0
+132,CHAINSAW UPTOWN,6,0.99,114,25.99,PG,"Deleted Scenes,Behind the Scenes",Sci-Fi,21.0,2.0,6.0,0.0
+137,CHARADE DUFFEL,3,2.99,66,21.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Sci-Fi,15.0,1.0,4.0,0.0
+138,CHARIOTS CONSPIRACY,5,2.99,71,29.99,R,"Deleted Scenes,Behind the Scenes",Sci-Fi,21.0,2.0,5.0,0.0
+140,CHEAPER CLYDE,6,0.99,87,23.99,G,"Trailers,Commentaries,Behind the Scenes",Sci-Fi,20.0,2.0,5.0,0.0
+151,CINCINATTI WHISPERER,5,4.99,143,26.99,NC-17,Deleted Scenes,Sci-Fi,13.0,2.0,4.0,1.0
+153,CITIZEN SHREK,7,0.99,165,18.99,G,"Commentaries,Deleted Scenes",Sci-Fi,13.0,1.0,4.0,0.0
+165,COLDBLOODED DARLING,7,4.99,70,27.99,G,"Trailers,Deleted Scenes",Sci-Fi,16.0,2.0,5.0,0.0
+177,CONNECTICUT TRAMP,4,4.99,172,20.99,R,"Commentaries,Deleted Scenes",Sci-Fi,13.0,1.0,3.0,0.0
+195,CROWDS TELEMARK,3,4.99,112,16.99,R,"Trailers,Behind the Scenes",Sci-Fi,,,,
+203,DAISY MENAGERIE,5,4.99,84,9.99,G,"Trailers,Commentaries,Behind the Scenes",Sci-Fi,16.0,1.0,4.0,0.0
+234,DISTURBING SCARFACE,6,2.99,94,27.99,R,"Trailers,Behind the Scenes",Sci-Fi,26.0,2.0,7.0,0.0
+235,DIVIDE MONSTER,6,2.99,68,13.99,PG-13,"Trailers,Commentaries",Sci-Fi,21.0,2.0,6.0,0.0
+240,DOLLS RAGE,7,2.99,120,10.99,PG-13,"Commentaries,Deleted Scenes",Sci-Fi,9.0,1.0,3.0,0.0
+285,ENGLISH BULWORTH,3,0.99,51,18.99,PG-13,Deleted Scenes,Sci-Fi,30.0,2.0,7.0,0.0
+296,EXPRESS LONELY,5,2.99,178,23.99,R,Trailers,Sci-Fi,13.0,1.0,4.0,0.0
+298,EYES DRIVING,4,2.99,172,13.99,PG-13,"Trailers,Commentaries",Sci-Fi,19.0,2.0,5.0,0.0
+312,FIDDLER LOST,4,4.99,75,20.99,R,"Deleted Scenes,Behind the Scenes",Sci-Fi,10.0,1.0,3.0,0.0
+319,FISH OPUS,4,2.99,125,22.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Sci-Fi,25.0,2.0,7.0,0.0
+338,FRISCO FORREST,6,4.99,51,23.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Sci-Fi,9.0,1.0,3.0,1.0
+350,GARDEN ISLAND,3,4.99,80,21.99,G,"Trailers,Behind the Scenes",Sci-Fi,20.0,2.0,8.0,0.0
+367,GOLDMINE TYCOON,6,0.99,153,20.99,R,"Trailers,Behind the Scenes",Sci-Fi,27.0,2.0,7.0,0.0
+369,GOODFELLAS SALUTE,4,4.99,56,22.99,PG,Deleted Scenes,Sci-Fi,31.0,2.0,8.0,0.0
+374,GRAFFITI LOVE,3,0.99,117,29.99,PG,"Trailers,Deleted Scenes",Sci-Fi,30.0,2.0,7.0,0.0
+390,GUYS FALCON,4,4.99,84,20.99,R,"Trailers,Commentaries,Behind the Scenes",Sci-Fi,9.0,1.0,3.0,0.0
+394,HAMLET WISDOM,7,2.99,146,21.99,R,"Trailers,Deleted Scenes",Sci-Fi,14.0,1.0,4.0,0.0
+397,HANKY OCTOBER,5,2.99,107,26.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Sci-Fi,26.0,2.0,7.0,0.0
+422,HOLLOW JEOPARDY,7,4.99,136,25.99,NC-17,Behind the Scenes,Sci-Fi,10.0,1.0,2.0,0.0
+449,IDENTITY LOVER,4,2.99,119,12.99,PG-13,Deleted Scenes,Sci-Fi,13.0,1.0,4.0,0.0
+520,LICENSE WEEKEND,7,2.99,91,28.99,NC-17,"Deleted Scenes,Behind the Scenes",Sci-Fi,7.0,1.0,2.0,0.0
+559,MARRIED GO,7,2.99,114,22.99,G,Behind the Scenes,Sci-Fi,30.0,2.0,8.0,0.0
+572,METROPOLIS COMA,4,2.99,64,9.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Sci-Fi,26.0,2.0,8.0,0.0
+602,MOURNING PURPLE,5,0.99,146,14.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sci-Fi,21.0,2.0,5.0,0.0
+620,NEMO CAMPUS,5,2.99,131,23.99,NC-17,Trailers,Sci-Fi,14.0,2.0,5.0,0.0
+625,NONE SPIKING,3,0.99,83,18.99,NC-17,"Trailers,Commentaries",Sci-Fi,27.0,2.0,7.0,1.0
+637,OPEN AFRICAN,7,4.99,131,16.99,PG,"Trailers,Commentaries",Sci-Fi,21.0,2.0,5.0,0.0
+655,PANTHER REDS,5,4.99,109,22.99,NC-17,"Deleted Scenes,Behind the Scenes",Sci-Fi,15.0,2.0,6.0,0.0
+711,RAGING AIRPLANE,4,4.99,154,18.99,R,"Commentaries,Deleted Scenes",Sci-Fi,13.0,1.0,4.0,0.0
+714,RANDOM GO,6,2.99,73,29.99,NC-17,Trailers,Sci-Fi,9.0,1.0,3.0,0.0
+723,REIGN GENTLEMEN,3,2.99,82,29.99,PG-13,"Deleted Scenes,Behind the Scenes",Sci-Fi,20.0,2.0,7.0,0.0
+798,SILVERADO GOLDFINGER,4,4.99,74,11.99,PG,"Trailers,Commentaries",Sci-Fi,12.0,2.0,4.0,1.0
+817,SOLDIERS EVOLUTION,7,4.99,185,27.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sci-Fi,8.0,1.0,2.0,0.0
+831,SPIRITED CASUALTIES,5,0.99,138,20.99,PG-13,"Commentaries,Behind the Scenes",Sci-Fi,11.0,1.0,3.0,0.0
+839,STALLION SUNDANCE,5,0.99,130,23.99,PG-13,"Deleted Scenes,Behind the Scenes",Sci-Fi,7.0,1.0,2.0,0.0
+860,SUICIDES SILENCE,4,4.99,93,13.99,G,Deleted Scenes,Sci-Fi,,,,
+863,SUN CONFESSIONS,5,0.99,141,9.99,R,"Trailers,Behind the Scenes",Sci-Fi,25.0,2.0,7.0,0.0
+893,TITANS JERK,4,4.99,91,11.99,PG,Behind the Scenes,Sci-Fi,29.0,2.0,8.0,1.0
+912,TROJAN TOMORROW,3,2.99,52,9.99,PG,"Commentaries,Deleted Scenes",Sci-Fi,19.0,2.0,6.0,1.0
+924,UNFORGIVEN ZOOLANDER,7,0.99,129,15.99,PG,"Trailers,Commentaries,Behind the Scenes",Sci-Fi,18.0,2.0,5.0,0.0
+930,VACATION BOONDOCK,4,2.99,145,23.99,R,Commentaries,Sci-Fi,21.0,2.0,6.0,0.0
+967,WEEKEND PERSONAL,5,2.99,134,26.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sci-Fi,18.0,2.0,5.0,0.0
+972,WHISPERER GIANT,4,4.99,59,24.99,PG-13,"Trailers,Deleted Scenes",Sci-Fi,22.0,2.0,6.0,0.0
+985,WONDERLAND CHRISTMAS,4,4.99,111,19.99,PG,Commentaries,Sci-Fi,22.0,2.0,7.0,0.0
+10,ALADDIN CALENDAR,6,4.99,63,24.99,NC-17,"Trailers,Deleted Scenes",Sports,23.0,2.0,7.0,0.0
+27,ANONYMOUS HUMAN,7,0.99,179,12.99,NC-17,"Deleted Scenes,Behind the Scenes",Sports,13.0,1.0,4.0,0.0
+42,ARTIST COLDBLOODED,5,2.99,170,10.99,NC-17,"Trailers,Behind the Scenes",Sports,16.0,1.0,4.0,0.0
+102,BUBBLE GROSSE,4,4.99,60,20.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sports,6.0,1.0,2.0,1.0
+113,CALIFORNIA BIRDS,4,4.99,75,19.99,NC-17,"Trailers,Commentaries,Deleted Scenes",Sports,12.0,1.0,4.0,0.0
+120,CARIBBEAN LIBERTY,3,4.99,92,16.99,NC-17,"Commentaries,Deleted Scenes",Sports,9.0,1.0,3.0,0.0
+135,CHANCE RESURRECTION,3,2.99,70,22.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,27.0,2.0,7.0,0.0
+176,CONGENIALITY QUEST,6,0.99,87,21.99,PG-13,"Commentaries,Behind the Scenes",Sports,22.0,2.0,6.0,0.0
+187,CRANES RESERVOIR,5,2.99,57,12.99,NC-17,Commentaries,Sports,11.0,1.0,3.0,0.0
+197,CRUSADE HONEY,4,2.99,112,27.99,R,Commentaries,Sports,8.0,1.0,2.0,0.0
+237,DIVORCE SHINING,3,2.99,47,21.99,G,"Trailers,Commentaries,Deleted Scenes",Sports,7.0,1.0,2.0,0.0
+254,DRIVER ANNIE,4,2.99,159,11.99,PG-13,"Trailers,Deleted Scenes,Behind the Scenes",Sports,18.0,2.0,5.0,1.0
+256,DROP WATERFRONT,6,4.99,178,20.99,R,"Trailers,Commentaries",Sports,9.0,1.0,3.0,0.0
+260,DUDE BLINDNESS,3,4.99,132,9.99,G,"Trailers,Deleted Scenes",Sports,16.0,1.0,4.0,0.0
+263,DURHAM PANKY,6,4.99,154,14.99,R,"Trailers,Commentaries",Sports,26.0,2.0,7.0,0.0
+279,ELIZABETH SHANE,7,4.99,152,11.99,NC-17,"Trailers,Deleted Scenes,Behind the Scenes",Sports,10.0,1.0,2.0,0.0
+291,EVOLUTION ALTER,5,0.99,174,10.99,PG-13,Behind the Scenes,Sports,12.0,1.0,4.0,0.0
+293,EXORCIST STING,6,2.99,167,17.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,13.0,2.0,5.0,0.0
+322,FLATLINERS KILLER,5,2.99,100,29.99,G,"Trailers,Commentaries,Deleted Scenes",Sports,22.0,2.0,6.0,0.0
+323,FLIGHT LIES,7,4.99,179,22.99,R,Trailers,Sports,12.0,1.0,4.0,0.0
+361,GLEAMING JAWBREAKER,5,2.99,89,25.99,NC-17,"Trailers,Commentaries",Sports,29.0,2.0,8.0,1.0
+372,GRACELAND DYNAMITE,5,4.99,140,26.99,R,"Trailers,Commentaries",Sports,6.0,1.0,2.0,0.0
+383,GROOVE FICTION,6,0.99,111,13.99,NC-17,Behind the Scenes,Sports,18.0,2.0,5.0,0.0
+389,GUNFIGHTER MUSSOLINI,3,2.99,127,9.99,PG-13,"Trailers,Commentaries",Sports,12.0,2.0,4.0,0.0
+420,HOLES BRANNIGAN,7,4.99,128,27.99,PG,"Commentaries,Behind the Scenes",Sports,15.0,2.0,5.0,1.0
+429,HONEY TIES,3,0.99,84,29.99,R,"Trailers,Commentaries,Deleted Scenes",Sports,19.0,2.0,6.0,0.0
+446,HYSTERICAL GRAIL,5,4.99,150,19.99,PG,"Trailers,Commentaries,Deleted Scenes",Sports,15.0,2.0,4.0,0.0
+453,IMAGE PRINCESS,3,2.99,178,17.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Sports,14.0,2.0,5.0,0.0
+463,INSTINCT AIRPORT,4,2.99,116,21.99,PG,"Commentaries,Deleted Scenes",Sports,18.0,2.0,5.0,0.0
+474,JADE BUNCH,6,2.99,174,21.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Sports,18.0,1.0,4.0,0.0
+488,JOON NORTHWEST,3,0.99,105,23.99,NC-17,"Trailers,Commentaries,Behind the Scenes",Sports,17.0,2.0,5.0,0.0
+503,KRAMER CHOCOLATE,3,2.99,171,24.99,R,Trailers,Sports,9.0,1.0,3.0,0.0
+517,LESSON CLEOPATRA,3,0.99,167,28.99,NC-17,"Deleted Scenes,Behind the Scenes",Sports,7.0,1.0,2.0,0.0
+519,LIBERTY MAGNIFICENT,3,2.99,138,27.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,12.0,1.0,4.0,0.0
+532,LOSER HUSTLER,5,4.99,80,28.99,PG,"Deleted Scenes,Behind the Scenes",Sports,15.0,1.0,4.0,0.0
+570,MERMAID INSECTS,5,4.99,104,20.99,NC-17,"Trailers,Behind the Scenes",Sports,16.0,2.0,5.0,0.0
+577,MILE MULAN,4,0.99,64,10.99,PG,"Deleted Scenes,Behind the Scenes",Sports,13.0,1.0,3.0,0.0
+598,MOSQUITO ARMAGEDDON,6,0.99,57,22.99,G,Trailers,Sports,15.0,1.0,4.0,1.0
+599,MOTHER OLEANDER,3,0.99,103,20.99,R,"Trailers,Commentaries",Sports,14.0,2.0,5.0,0.0
+606,MUMMY CREATURES,3,0.99,160,15.99,NC-17,"Trailers,Behind the Scenes",Sports,16.0,2.0,6.0,1.0
+612,MUSSOLINI SPOILERS,6,2.99,180,10.99,G,"Deleted Scenes,Behind the Scenes",Sports,5.0,1.0,2.0,0.0
+619,NEIGHBORS CHARADE,3,0.99,161,20.99,R,"Trailers,Commentaries,Deleted Scenes",Sports,19.0,2.0,6.0,0.0
+628,NORTHWEST POLISH,5,2.99,172,24.99,PG,Trailers,Sports,20.0,2.0,5.0,0.0
+631,NOVOCAINE FLIGHT,4,0.99,64,11.99,G,"Trailers,Commentaries,Deleted Scenes",Sports,19.0,2.0,5.0,0.0
+667,PEACH INNOCENT,3,2.99,160,20.99,PG-13,"Commentaries,Behind the Scenes",Sports,14.0,2.0,4.0,1.0
+668,PEAK FOREVER,7,4.99,80,25.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sports,20.0,2.0,5.0,0.0
+671,PERDITION FARGO,7,4.99,99,27.99,NC-17,"Trailers,Behind the Scenes",Sports,,,,
+676,PHILADELPHIA WIFE,7,4.99,137,16.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Sports,23.0,2.0,6.0,1.0
+678,PICKUP DRIVING,3,2.99,77,23.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sports,16.0,1.0,4.0,0.0
+681,PIRATES ROXANNE,4,0.99,100,20.99,PG,"Commentaries,Deleted Scenes",Sports,21.0,2.0,6.0,1.0
+691,POSEIDON FOREVER,6,4.99,159,29.99,PG-13,Commentaries,Sports,17.0,2.0,5.0,0.0
+719,RECORDS ZORRO,7,4.99,182,11.99,PG,Behind the Scenes,Sports,8.0,1.0,2.0,0.0
+729,RIDER CADDYSHACK,5,2.99,177,28.99,PG,"Commentaries,Behind the Scenes",Sports,11.0,1.0,4.0,0.0
+733,RIVER OUTLAW,4,0.99,149,29.99,PG-13,Commentaries,Sports,20.0,2.0,7.0,1.0
+745,ROSES TREASURE,5,4.99,162,23.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,28.0,2.0,8.0,0.0
+763,SATISFACTION CONFIDENTIAL,3,4.99,75,26.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,17.0,2.0,5.0,0.0
+764,SATURDAY LAMBS,3,4.99,150,28.99,G,"Commentaries,Deleted Scenes",Sports,28.0,2.0,8.0,0.0
+773,SEABISCUIT PUNK,6,2.99,112,28.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,26.0,2.0,8.0,1.0
+777,SECRETARY ROUGE,5,4.99,158,10.99,PG,"Commentaries,Behind the Scenes",Sports,18.0,2.0,6.0,0.0
+779,SENSE GREEK,4,4.99,54,23.99,R,"Deleted Scenes,Behind the Scenes",Sports,7.0,1.0,2.0,0.0
+782,SHAKESPEARE SADDLE,6,2.99,60,26.99,PG-13,"Commentaries,Behind the Scenes",Sports,22.0,2.0,6.0,0.0
+796,SIERRA DIVIDE,3,0.99,135,12.99,NC-17,"Commentaries,Deleted Scenes",Sports,15.0,2.0,5.0,0.0
+809,SLIPPER FIDELITY,5,0.99,156,14.99,PG-13,"Trailers,Deleted Scenes",Sports,16.0,1.0,4.0,0.0
+813,SMOOCHY CONTROL,7,0.99,184,18.99,R,Behind the Scenes,Sports,12.0,1.0,4.0,1.0
+836,SQUAD FISH,3,2.99,136,14.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,7.0,1.0,3.0,0.0
+841,STAR OPERATION,5,2.99,181,9.99,PG,Commentaries,Sports,21.0,2.0,7.0,1.0
+844,STEERS ARMAGEDDON,6,4.99,140,16.99,PG,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Sports,15.0,2.0,4.0,0.0
+851,STRAIGHT HOURS,3,0.99,151,19.99,R,"Commentaries,Behind the Scenes",Sports,20.0,2.0,6.0,0.0
+875,TALENTED HOMICIDE,6,0.99,173,9.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,29.0,2.0,7.0,0.0
+890,TIGHTS DAWN,5,0.99,172,14.99,R,"Trailers,Behind the Scenes",Sports,26.0,2.0,7.0,0.0
+898,TOURIST PELICAN,4,4.99,152,18.99,PG-13,Deleted Scenes,Sports,22.0,2.0,5.0,0.0
+902,TRADING PINOCCHIO,6,4.99,170,22.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Sports,25.0,2.0,7.0,1.0
+917,TUXEDO MILE,3,2.99,152,24.99,R,"Commentaries,Deleted Scenes,Behind the Scenes",Sports,13.0,2.0,5.0,1.0
+940,VICTORY ACADEMY,6,0.99,64,19.99,PG-13,"Trailers,Behind the Scenes",Sports,9.0,1.0,3.0,0.0
+41,ARSENIC INDEPENDENCE,4,0.99,137,17.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Travel,,,,
+57,BASIC EASY,4,2.99,90,18.99,PG-13,Deleted Scenes,Travel,21.0,2.0,7.0,1.0
+75,BIRD INDEPENDENCE,6,4.99,163,14.99,G,"Commentaries,Behind the Scenes",Travel,11.0,1.0,3.0,0.0
+84,BOILED DARES,7,4.99,102,13.99,PG,"Trailers,Commentaries",Travel,15.0,1.0,4.0,0.0
+87,BOONDOCK BALLROOM,7,0.99,76,14.99,NC-17,Behind the Scenes,Travel,,,,
+88,BORN SPINAL,7,4.99,179,17.99,PG,"Trailers,Commentaries,Deleted Scenes",Travel,12.0,1.0,4.0,0.0
+103,BUCKET BROTHERHOOD,7,4.99,133,27.99,PG,"Commentaries,Deleted Scenes",Travel,34.0,2.0,8.0,0.0
+123,CASABLANCA SUPER,6,4.99,85,22.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Travel,16.0,2.0,5.0,0.0
+125,CASSIDY WYOMING,5,2.99,61,19.99,NC-17,"Commentaries,Behind the Scenes",Travel,6.0,1.0,2.0,0.0
+167,COMA HEAD,6,4.99,109,10.99,NC-17,Commentaries,Travel,26.0,2.0,7.0,0.0
+169,COMFORTS RUSH,3,2.99,76,19.99,NC-17,"Commentaries,Behind the Scenes",Travel,17.0,2.0,4.0,0.0
+181,CONTACT ANONYMOUS,7,2.99,166,10.99,PG-13,Commentaries,Travel,26.0,2.0,7.0,0.0
+224,DESPERATE TRAINSPOTTING,7,4.99,81,29.99,G,Deleted Scenes,Travel,6.0,1.0,2.0,0.0
+233,DISCIPLE MOTHER,3,0.99,141,17.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Travel,19.0,2.0,6.0,1.0
+257,DRUMLINE CYCLONE,3,0.99,110,14.99,G,"Commentaries,Deleted Scenes,Behind the Scenes",Travel,11.0,1.0,3.0,0.0
+286,ENOUGH RAGING,7,2.99,158,16.99,NC-17,Commentaries,Travel,18.0,2.0,5.0,1.0
+288,ESCAPE METROPOLIS,7,2.99,167,20.99,R,Trailers,Travel,25.0,2.0,6.0,0.0
+294,EXPECATIONS NATURAL,5,4.99,138,26.99,PG-13,Deleted Scenes,Travel,18.0,2.0,5.0,0.0
+299,FACTORY DRAGON,4,0.99,144,9.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Travel,17.0,1.0,4.0,0.0
+307,FELLOWSHIP AUTUMN,6,4.99,77,9.99,NC-17,"Deleted Scenes,Behind the Scenes",Travel,26.0,2.0,6.0,0.0
+339,FROGMEN BREAKING,5,0.99,111,17.99,R,"Trailers,Deleted Scenes,Behind the Scenes",Travel,10.0,1.0,3.0,0.0
+342,FUGITIVE MAGUIRE,7,4.99,83,28.99,R,"Trailers,Commentaries,Deleted Scenes",Travel,11.0,1.0,4.0,0.0
+347,GAMES BOWFINGER,7,4.99,119,17.99,PG-13,Behind the Scenes,Travel,14.0,1.0,4.0,0.0
+386,GUMP DATE,3,4.99,53,12.99,NC-17,Deleted Scenes,Travel,,,,
+405,HAUNTED ANTITRUST,6,4.99,76,13.99,NC-17,"Trailers,Deleted Scenes",Travel,6.0,1.0,2.0,1.0
+434,HORROR REIGN,3,0.99,139,25.99,R,"Deleted Scenes,Behind the Scenes",Travel,27.0,2.0,8.0,0.0
+451,IGBY MAKER,7,4.99,160,12.99,NC-17,"Trailers,Behind the Scenes",Travel,19.0,2.0,5.0,1.0
+472,ITALIAN AFRICAN,3,4.99,174,24.99,G,"Trailers,Commentaries,Deleted Scenes",Travel,6.0,1.0,2.0,0.0
+496,KICK SAVANNAH,3,0.99,179,10.99,PG-13,"Trailers,Commentaries,Deleted Scenes",Travel,20.0,2.0,5.0,1.0
+513,LEATHERNECKS DWARFS,6,2.99,153,21.99,PG-13,"Trailers,Commentaries,Behind the Scenes",Travel,7.0,1.0,2.0,0.0
+518,LIAISONS SWEET,5,4.99,140,15.99,PG,"Commentaries,Behind the Scenes",Travel,22.0,2.0,6.0,0.0
+526,LOCK REAR,7,2.99,120,10.99,R,"Trailers,Commentaries",Travel,16.0,1.0,4.0,0.0
+543,MADIGAN DORADO,5,4.99,116,20.99,R,"Deleted Scenes,Behind the Scenes",Travel,10.0,1.0,2.0,0.0
+601,MOULIN WAKE,4,0.99,79,20.99,PG-13,Trailers,Travel,16.0,2.0,5.0,0.0
+609,MUSCLE BRIGHT,7,2.99,185,23.99,G,Deleted Scenes,Travel,30.0,2.0,8.0,0.0
+642,ORDER BETRAYED,7,2.99,120,13.99,PG-13,"Deleted Scenes,Behind the Scenes",Travel,,,,
+645,OTHERS SOUP,7,2.99,118,18.99,PG,Deleted Scenes,Travel,23.0,2.0,6.0,0.0
+648,OUTLAW HANKY,7,4.99,148,17.99,PG-13,"Trailers,Commentaries",Travel,14.0,2.0,6.0,1.0
+656,PAPI NECKLACE,3,0.99,128,9.99,PG,"Trailers,Deleted Scenes,Behind the Scenes",Travel,8.0,1.0,2.0,0.0
+783,SHANE DARKNESS,5,2.99,93,22.99,PG,"Commentaries,Deleted Scenes",Travel,14.0,1.0,4.0,0.0
+784,SHANGHAI TYCOON,7,2.99,47,20.99,PG,"Commentaries,Deleted Scenes,Behind the Scenes",Travel,14.0,2.0,6.0,0.0
+785,SHAWSHANK BUBBLE,6,4.99,80,20.99,PG,"Commentaries,Deleted Scenes",Travel,19.0,2.0,6.0,1.0
+787,SHINING ROSES,4,0.99,125,12.99,G,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes",Travel,8.0,1.0,3.0,0.0
+811,SMILE EARRING,4,2.99,60,29.99,G,"Commentaries,Behind the Scenes",Travel,10.0,1.0,3.0,0.0
+826,SPEED SUIT,7,4.99,124,19.99,PG-13,"Commentaries,Behind the Scenes",Travel,9.0,1.0,2.0,0.0
+848,STONE FIRE,3,0.99,94,19.99,G,Trailers,Travel,11.0,1.0,3.0,0.0
+868,SUPERFLY TRIP,5,0.99,114,27.99,PG,"Commentaries,Behind the Scenes",Travel,10.0,1.0,3.0,0.0
+872,SWEET BROTHERHOOD,3,2.99,185,27.99,R,Deleted Scenes,Travel,15.0,1.0,3.0,0.0
+878,TEEN APOLLO,3,4.99,74,25.99,G,"Trailers,Deleted Scenes,Behind the Scenes",Travel,17.0,1.0,4.0,0.0
+894,TOMATOES HELLFIGHTERS,6,0.99,68,23.99,PG,Behind the Scenes,Travel,14.0,2.0,5.0,0.0
+903,TRAFFIC HOBBIT,5,4.99,139,13.99,G,"Trailers,Commentaries",Travel,5.0,1.0,2.0,0.0
+914,TROUBLE DATE,6,2.99,61,13.99,PG,"Trailers,Commentaries,Behind the Scenes",Travel,23.0,2.0,6.0,1.0
+931,VALENTINE VANISHING,7,0.99,48,9.99,PG-13,"Trailers,Behind the Scenes",Travel,12.0,1.0,3.0,0.0
+977,WINDOW SIDE,3,2.99,85,25.99,R,"Deleted Scenes,Behind the Scenes",Travel,12.0,1.0,3.0,1.0
+981,WOLVES DESIRE,7,0.99,55,13.99,NC-17,Behind the Scenes,Travel,21.0,2.0,6.0,0.0
+988,WORKER TARZAN,7,2.99,139,26.99,R,"Trailers,Commentaries,Behind the Scenes",Travel,15.0,2.0,5.0,0.0
+989,WORKING MICROCOSMOS,4,4.99,74,22.99,R,"Commentaries,Deleted Scenes",Travel,25.0,2.0,6.0,0.0
